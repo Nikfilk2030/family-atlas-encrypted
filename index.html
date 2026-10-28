@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="referrer" content="no-referrer"><meta name="robots" content="noindex,nofollow,noarchive">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'unsafe-inline'; style-src 'unsafe-inline'; connect-src 'self'; img-src data: blob:; frame-src blob:; base-uri 'none'; form-action 'none'">
+<title>Зашифрованный семейный архив</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#f5f1e9;color:#292c25;font:16px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}#gate{max-width:580px;padding:36px 24px;margin:10vh auto}h1{font:normal 32px/1.2 Georgia,serif}p{color:#666b60}.note{font-size:13px;border-top:1px solid #d8dace;padding-top:18px}.toolbar{height:42px;background:#e6ebdf;border-bottom:1px solid #cfd7c6;display:none;align-items:center;justify-content:space-between;gap:12px;padding:5px 14px;font-size:11px}.toolbar button{background:#fffdf8;border:1px solid #bac7b4;border-radius:5px;padding:5px 9px;color:#344833;cursor:pointer}body[data-state="open"] #gate{display:none}body[data-state="open"] .toolbar{display:flex}#atlas-frame{display:none;width:100%;height:calc(100dvh - 42px);border:0;background:#f5f1e9}body[data-state="open"] #atlas-frame{display:block}body[data-state="error"] #status{color:#8a4535}button:focus-visible{outline:3px solid #6682a2}#copy-status{font-size:10px}@media(max-width:600px){.toolbar{font-size:9px;padding:5px 8px}.toolbar button{font-size:10px}#gate{margin:6vh auto}h1{font-size:28px}}
+</style></head>
+<body data-state="locked">
+<div class="toolbar"><span>Ключ находится в ссылке. Пересылайте её только семье</span><span id="copy-status" role="status"></span><button id="copy-link">Скопировать ссылку</button></div>
+<main id="gate"><p>Личный архив</p><h1>Для открытия нужна семейная ссылка</h1><p id="status" role="status">Попросите владельца прислать полную ссылку с ключом доступа</p><p class="note">Здесь размещены только зашифрованные данные. Ключ не хранится на сайте и не отправляется в запросах к хостингу. Любой, кто получит полную семейную ссылку, сможет открыть архив</p><noscript>Для расшифровки требуется JavaScript в браузере</noscript></main>
+<script>
+'use strict';
+const statusNode=document.getElementById('status');
+// Constant child-only helper: never interpolate the parent URL or decrypted content into this script.
+const localHashLinks=`<script>
+document.addEventListener('click',event=>{
+ const link=event.target.closest?.('a[href]');
+ const href=link?.getAttribute('href');
+ if(!href?.startsWith('#'))return;
+ event.preventDefault();
+ let id=href.slice(1);try{id=decodeURIComponent(id)}catch(error){}
+ const target=document.getElementById(id);if(!target)return;
+ target.scrollIntoView({behavior:'instant',block:'start'});
+ const temporaryTabIndex=!target.hasAttribute('tabindex')&&target.tabIndex<0;
+ if(temporaryTabIndex){
+  target.setAttribute('tabindex','-1');
+  target.addEventListener('blur',()=>target.removeAttribute('tabindex'),{once:true});
+ }
+ target.focus({preventScroll:true});
+},true);
+<\/script>`;
+let generation=0,controller=null,frameUrl=null;
+function removeFrame(){
+ document.getElementById('atlas-frame')?.remove();
+ if(frameUrl){URL.revokeObjectURL(frameUrl);frameUrl=null;}
+}
+function showError(run){
+ if(run!==generation)return;
+ removeFrame();document.body.dataset.state='error';
+ statusNode.textContent='Не удалось открыть архив: ссылка неверна, данные повреждены или недоступны. Проверьте, что семейная ссылка скопирована целиком';
+}
+async function openFromFragment(){
+ const run=++generation;if(controller)controller.abort();controller=new AbortController();
+ removeFrame();document.body.dataset.state='locked';
+ const encoded=new URLSearchParams(location.hash.slice(1)).get('k');
+ if(!encoded){statusNode.textContent='Попросите владельца прислать полную ссылку с ключом доступа';return;}
+ try{
+  if(!/^[A-Za-z0-9_-]{43}$/.test(encoded))throw new Error('Invalid key');
+  if(!globalThis.crypto?.subtle)throw new Error('Secure context required');
+  document.body.dataset.state='loading';statusNode.textContent='Расшифровываем архив в вашем браузере…';
+  const raw=Uint8Array.from(atob(encoded.replace(/-/g,'+').replace(/_/g,'/')+'='),c=>c.charCodeAt(0));
+  if(raw.length!==32)throw new Error('Invalid key length');
+  const key=await crypto.subtle.importKey('raw',raw,{name:'AES-GCM'},false,['decrypt']);raw.fill(0);
+  if(run!==generation)return;
+  const payloadUrl=new URL('./payload.bin',location.href);payloadUrl.hash='';
+  const response=await fetch(payloadUrl,{credentials:'omit',referrerPolicy:'no-referrer',cache:'no-store',mode:'same-origin',signal:controller.signal});
+  if(!response.ok)throw new Error('Payload unavailable');
+  if(Number(response.headers.get('content-length')||0)>26214400)throw new Error('Payload too large');
+  const buffer=new Uint8Array(await response.arrayBuffer());
+  if(run!==generation)return;
+  if(buffer.length<32||buffer.length>26214400||buffer[0]!==70||buffer[1]!==65||buffer[2]!==84||buffer[3]!==49)throw new Error('Invalid payload');
+  const plain=await crypto.subtle.decrypt({name:'AES-GCM',iv:buffer.slice(4,16),additionalData:new TextEncoder().encode('family-atlas/aes-gcm/v1'),tagLength:128},key,buffer.slice(16));
+  if(run!==generation)return;
+  const html=new TextDecoder('utf-8',{fatal:true}).decode(plain);
+  const frame=document.createElement('iframe');frame.id='atlas-frame';frame.title='Семейное дерево';
+  frame.setAttribute('sandbox','allow-scripts allow-popups allow-popups-to-escape-sandbox allow-downloads');
+  frame.referrerPolicy='no-referrer';
+  frame.onload=()=>{if(run===generation&&frame.isConnected)document.body.dataset.state='open'};
+  frame.onerror=()=>showError(run);
+  // A blob avoids both srcdoc's inherited base URI and data-URL navigation size limits.
+  frameUrl=URL.createObjectURL(new Blob([html,localHashLinks],{type:'text/html;charset=utf-8'}));
+  frame.src=frameUrl;document.body.append(frame);
+ }catch(error){showError(run);}
+}
+document.getElementById('copy-link').onclick=async()=>{try{await navigator.clipboard.writeText(location.href);document.getElementById('copy-status').textContent='Ссылка скопирована'}catch(error){document.getElementById('copy-status').textContent='Скопируйте адрес из адресной строки'}};
+window.addEventListener('hashchange',openFromFragment);openFromFragment();
+</script></body></html>
