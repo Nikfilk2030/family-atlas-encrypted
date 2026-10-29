@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+test-results/
+tests/qa-*/
+tests/*.png
+tests/qa.json
+tests/qa-*.json
+.DS_Store
+.env
+.env.*
+.*.tmp

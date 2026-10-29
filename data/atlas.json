@@ -1,0 +1,4778 @@
+{
+  "version": 2,
+  "updated_at": "2026-10-29T14:26:02Z",
+  "default_family": "F-home",
+  "people": [
+    {
+      "id": "P-0001",
+      "name": "Вы",
+      "birth": "",
+      "death": "",
+      "dates": "",
+      "place": "",
+      "note": "",
+      "role": "Вы",
+      "kind": "family",
+      "living_status": "living",
+      "source_ids": [
+        "A-USER-INITIAL"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "P-0002",
+      "name": "Сорокина Елена Владимировна",
+      "birth": "1980",
+      "death": "",
+      "dates": "1980",
+      "place": "Прокопьевск, Кемеровская область",
+      "note": "",
+      "role": "Мама",
+      "kind": "family",
+      "living_status": "unknown",
+      "source_ids": [
+        "A-USER-INITIAL"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "P-0003",
+      "name": "Шевердов Андрей Владимирович",
+      "birth": "1979",
+      "death": "",
+      "dates": "1979",
+      "place": "Железногорск, Красноярский край",
+      "note": "",
+      "role": "Папа",
+      "kind": "family",
+      "living_status": "unknown",
+      "source_ids": [
+        "A-USER-INITIAL"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "P-0004",
+      "name": "Ерченко Людмила Александровна",
+      "birth": "1957",
+      "death": "",
+      "dates": "1957",
+      "place": "Прокопьевск? (раннее сообщение)",
+      "note": "Уточнение прежней оценки около 1960; Ерченко вероятно девичья, но прямо не обозначена",
+      "role": "Бабушка по маме",
+      "kind": "family",
+      "living_status": "unknown",
+      "source_ids": [
+        "A-0008",
+        "A-0030"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "P-0005",
+      "name": "Сорокин Владимир Алексеевич",
+      "birth": "1959",
+      "death": "",
+      "dates": "1959",
+      "place": "Прокопьевск? (раннее сообщение)",
+      "note": "Уточнение прежней оценки около 1960",
+      "role": "Дедушка по маме",
+      "kind": "family",
+      "living_status": "unknown",
+      "source_ids": [
+        "A-0008",
+        "A-0030"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "P-0006",
+      "name": "Зыкина Ольга Николаевна",
+      "birth": "1960–1970-е? (общая оценка с братом и сестрой)",
+      "death": "",
+      "dates": "1960–1970-е?",
+      "place": "",
+      "note": "",
+      "role": "Бабушка по папе",
+      "kind": "family",
+      "living_status": "unknown",
+      "source_ids": [
+        "A-USER-INITIAL"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "P-0007",
+      "name": "Шевердов Владимир Владимирович",
+      "birth": "около 1960",
+      "death": "",
+      "dates": "около 1960",
+      "place": "Ачинск или окрестности? Красноярский край",
+      "note": "Дед пользователя, НЕ Владимир Никонорович",
+      "role": "Дедушка по папе",
+      "kind": "family",
+      "living_status": "unknown",
+      "source_ids": [
+        "A-0007"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "P-0008",
+      "name": "Ерченко Александр Федорович",
+      "birth": "1926",
+      "death": "2015",
+      "dates": "1926–2015",
+      "place": "Черниговская область, Остерский район, село Сорокошицы",
+      "note": "Новое уточнение семьи заменяет прежнюю оценку около 1930. Место сообщено без указания, относится ли оно к рождению или проживанию. В исходном сообщении: «село сорокошицы». Архивный кандидат 1926 не слит с этим человеком",
+      "role": "Отец Людмилы",
+      "kind": "family",
+      "living_status": "deceased-reported",
+      "source_ids": [
+        "A-0008",
+        "A-0030"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": [
+        "C-0012"
+      ]
+    },
+    {
+      "id": "P-0009",
+      "name": "Зайцева Антонина Емельяновна",
+      "birth": "1930",
+      "death": "1993",
+      "dates": "1930–1993",
+      "place": "",
+      "note": "Имя и даты уточнены новым сообщением семьи. Архивного документа пока нет",
+      "role": "Мать Людмилы",
+      "kind": "family",
+      "living_status": "deceased-reported",
+      "source_ids": [
+        "A-0008",
+        "A-0030"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "P-0010",
+      "name": "Зайцева Аграфена Семеновна",
+      "birth": "13.06.1908",
+      "death": "13.01.1991",
+      "dates": "13.06.1908–13.01.1991",
+      "place": "",
+      "note": "Бабушка Людмилы; предполагаемая мать Антонины, связь отдельно как гипотеза",
+      "role": "Бабушка Людмилы",
+      "kind": "family",
+      "living_status": "deceased-reported",
+      "source_ids": [
+        "A-0008",
+        "A-0030"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "P-0011",
+      "name": "Зайцев Емельян Аверьянович",
+      "birth": "23.08.1909",
+      "death": "04.01.1979",
+      "dates": "23.08.1909–04.01.1979",
+      "place": "Новосибирская область, село Татарка",
+      "note": "Дедушка Людмилы. Место Татарка сообщено без роли места. Кандидат из военного донесения связан с Кузьминкой, поэтому географическая связка ещё требует проверки. Пропажа без вести 1943 не подменяет семейную дату смерти 1979",
+      "role": "Дедушка Людмилы",
+      "kind": "family",
+      "living_status": "deceased-reported",
+      "source_ids": [
+        "A-0008",
+        "A-0030"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": [
+        "C-0011"
+      ]
+    },
+    {
+      "id": "P-0012",
+      "name": "Сорокин Алексей Ефимович",
+      "birth": "17.08.1934",
+      "death": "2007",
+      "dates": "17.08.1934–2007",
+      "place": "Игарка",
+      "note": "В сообщении дата «17.08.34 - 2007», краткий год раскрыт как 1934 по семейному контексту. Роль Игарки (рождение/проживание) не уточнена. Родители названы Ефимом Ивановичем и Марией",
+      "role": "Отец Владимира Сорокина",
+      "kind": "family",
+      "living_status": "deceased-reported",
+      "source_ids": [
+        "A-0008",
+        "A-0030"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "P-0013",
+      "name": "Попонникова Зинаида Александровна",
+      "birth": "20.08.1937",
+      "death": "2018",
+      "dates": "20.08.1937–2018",
+      "place": "Прокопьевск",
+      "note": "В сообщении «20.08.37-2018», краткий год раскрыт как 1937. Совпали ФИО,1937 и Прокопьевск с ранее найденным индексом, но точная дата, брак и родители в нём не указаны. Архивная запись C-0002 сохранена отдельно",
+      "role": "Мать Владимира Сорокина",
+      "kind": "family",
+      "living_status": "deceased-reported",
+      "source_ids": [
+        "A-0008",
+        "A-0030"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "Попонникова Зинаида Александровна",
+      "record_matches": [
+        "C-0002"
+      ]
+    },
+    {
+      "id": "P-0014",
+      "name": "Зыкина Галина",
+      "birth": "около 1941",
+      "death": "",
+      "dates": "около 1941",
+      "place": "Железногорск? рождение и проживание не различены",
+      "note": "Степановна и Пономарева — исследовательская реконструкция из родителей/сестры, не документальное чтение",
+      "role": "Мать Ольги",
+      "kind": "family",
+      "living_status": "unknown",
+      "source_ids": [
+        "A-0007"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "Галина Степановна Пономарева (гипотеза)",
+      "record_matches": []
+    },
+    {
+      "id": "P-0015",
+      "name": "Зыкин Николай Афанасьевич",
+      "birth": "10.12.1932 (все даты по словам пользователя примерные)",
+      "death": "",
+      "dates": "около 10.12.1932",
+      "place": "деревня Зыкино под Кировом, район не установлен",
+      "note": "",
+      "role": "Отец Ольги",
+      "kind": "family",
+      "living_status": "unknown",
+      "source_ids": [
+        "A-0007"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "P-0016",
+      "name": "Степан Пономарев",
+      "birth": "",
+      "death": "умер в тюрьме по последнему рассказу, ранее рассказ о расстреле",
+      "dates": "",
+      "place": "тюрьма под Омском или Томском?; Железногорск из раннего рассказа требует уточнения",
+      "note": "Отец Галины; арест около 1942; 10 лет без переписки?; реабилитация 1961 или 1962; отчество НЕ установлено",
+      "role": "Отец Галины",
+      "kind": "family",
+      "living_status": "deceased-reported",
+      "source_ids": [
+        "A-0007"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "Степан Пономарёв (поисковый вариант)",
+      "record_matches": [
+        "C-0001",
+        "H-P-DP08"
+      ]
+    },
+    {
+      "id": "P-0017",
+      "name": "Агафья Николаевна Пономарева",
+      "birth": "",
+      "death": "",
+      "dates": "",
+      "place": "«большой улуй, деревня, кажется под ачинском»",
+      "note": "Мать Галины; девичья неизвестна; зажиточность/раскулачивание её родителей по рассказу",
+      "role": "Мать Галины",
+      "kind": "family",
+      "living_status": "unknown",
+      "source_ids": [
+        "A-0007"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": [
+        "H-P-DP09"
+      ]
+    },
+    {
+      "id": "P-0018",
+      "name": "Полина Степановна Пономарева",
+      "birth": "около 1923",
+      "death": "",
+      "dates": "около 1923",
+      "place": "Ладожское озеро (служба по рассказу); Бронницы (после войны)",
+      "note": "Сестра Галины; уход на фронт около 1941, перевозка грузов, предложение фронта вместо тюрьмы — семейный рассказ",
+      "role": "Сестра Галины",
+      "kind": "family",
+      "living_status": "unknown",
+      "source_ids": [
+        "A-0007"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "Полина Степановна Василенко (возможная брачная фамилия)",
+      "record_matches": [
+        "C-0010",
+        "C-0003"
+      ]
+    },
+    {
+      "id": "P-0019",
+      "name": "Василий Василенко",
+      "birth": "",
+      "death": "",
+      "dates": "",
+      "place": "с Украины; точное место неизвестно",
+      "note": "Муж Полины; отчество неизвестно",
+      "role": "Родственник по рассказу",
+      "kind": "family",
+      "living_status": "unknown",
+      "source_ids": [
+        "A-0007"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "P-0020",
+      "name": "Степан (брат Галины)",
+      "birth": "",
+      "death": "",
+      "dates": "",
+      "place": "Базаиха",
+      "note": "Не отец Галины; заключение по рассказу, причина неизвестна; фамилия и отчество прямо не названы",
+      "role": "Брат Галины",
+      "kind": "family",
+      "living_status": "unknown",
+      "source_ids": [
+        "A-0007"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "P-0021",
+      "name": "Саша (сын брата Галины Степана)",
+      "birth": "",
+      "death": "",
+      "dates": "",
+      "place": "",
+      "note": "Не смешивать с сыном Полины; живой статус неизвестен, не разыскивать",
+      "role": "Родственник по рассказу",
+      "kind": "family",
+      "living_status": "unknown",
+      "source_ids": [
+        "A-0007"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "P-0022",
+      "name": "Наташа (дочь брата Галины Степана)",
+      "birth": "",
+      "death": "",
+      "dates": "",
+      "place": "",
+      "note": "Живой статус неизвестен, не разыскивать",
+      "role": "Родственник по рассказу",
+      "kind": "family",
+      "living_status": "unknown",
+      "source_ids": [
+        "A-0007"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "P-0023",
+      "name": "Саша (сын Полины и Василия)",
+      "birth": "",
+      "death": "",
+      "dates": "",
+      "place": "",
+      "note": "Отдельный человек; характер связи сохранён только в частном свидетельстве A-0007; личный розыск не выполняется",
+      "role": "Родственник по рассказу",
+      "kind": "family",
+      "living_status": "unknown",
+      "source_ids": [
+        "A-0007"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "P-0024",
+      "name": "Шевердов Владимир Никонорович",
+      "birth": "",
+      "death": "около 1999 по общей фразе о родителях дедушки",
+      "dates": "ум. около 1999",
+      "place": "«с запада» относительно Красноярска, точное место неизвестно",
+      "note": "Отец дедушки Владимира Владимировича, НЕ дед; армия, болезнь, связь с поездами по рассказу",
+      "role": "Отец Владимира Шевердова",
+      "kind": "family",
+      "living_status": "deceased-reported",
+      "source_ids": [
+        "A-0007"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "Шевердов Владимир Никанорович (только поисковый вариант)",
+      "record_matches": []
+    },
+    {
+      "id": "P-0025",
+      "name": "Лидия Михайловна",
+      "birth": "",
+      "death": "около 1999 по общей фразе о родителях дедушки",
+      "dates": "ум. около 1999",
+      "place": "«старо-черное, рядом с чернореченском»",
+      "note": "Жена Владимира Никоноровича; девичья фамилия неизвестна",
+      "role": "Мать Владимира Шевердова",
+      "kind": "family",
+      "living_status": "deceased-reported",
+      "source_ids": [
+        "A-0007"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "P-0026",
+      "name": "Зоя (мать Лидии Михайловны)",
+      "birth": "",
+      "death": "",
+      "dates": "",
+      "place": "",
+      "note": "Фамилия и отчество неизвестны",
+      "role": "Мать Лидии",
+      "kind": "family",
+      "living_status": "unknown",
+      "source_ids": [
+        "A-0007"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "P-0027",
+      "name": "Мария (дочь Зои)",
+      "birth": "",
+      "death": "",
+      "dates": "",
+      "place": "Красноярский край",
+      "note": "",
+      "role": "Родственник по рассказу",
+      "kind": "family",
+      "living_status": "unknown",
+      "source_ids": [
+        "A-0007"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "P-0028",
+      "name": "Костя (сын Зои)",
+      "birth": "",
+      "death": "",
+      "dates": "",
+      "place": "Красноярский край",
+      "note": "",
+      "role": "Родственник по рассказу",
+      "kind": "family",
+      "living_status": "unknown",
+      "source_ids": [
+        "A-0007"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "Константин (предполагаемая полная форма)",
+      "record_matches": []
+    },
+    {
+      "id": "P-0029",
+      "name": "Виктор (сын Зои)",
+      "birth": "",
+      "death": "",
+      "dates": "",
+      "place": "Красноярский край",
+      "note": "",
+      "role": "Родственник по рассказу",
+      "kind": "family",
+      "living_status": "unknown",
+      "source_ids": [
+        "A-0007"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "P-0030",
+      "name": "Неизвестный брат Владимира Никоноровича",
+      "birth": "",
+      "death": "",
+      "dates": "",
+      "place": "Назарово",
+      "note": "Работал актёром по рассказу, имя и театр неизвестны",
+      "role": "Родственник по рассказу",
+      "kind": "family",
+      "living_status": "unknown",
+      "source_ids": [
+        "A-0007"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "P-0031",
+      "name": "Елена Николавна (сестра Ольги)",
+      "birth": "1960–1970-е? (общая оценка)",
+      "death": "",
+      "dates": "1960–1970-е?",
+      "place": "",
+      "note": "Сохраняется исходное написание Николавна",
+      "role": "Родственник по рассказу",
+      "kind": "family",
+      "living_status": "unknown",
+      "source_ids": [
+        "A-USER-INITIAL"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "Елена Николаевна (вероятный вариант)",
+      "record_matches": []
+    },
+    {
+      "id": "P-0032",
+      "name": "Сергей Николаевич (брат Ольги)",
+      "birth": "1960–1970-е? (общая оценка)",
+      "death": "",
+      "dates": "1960–1970-е?",
+      "place": "",
+      "note": "",
+      "role": "Родственник по рассказу",
+      "kind": "family",
+      "living_status": "unknown",
+      "source_ids": [
+        "A-USER-INITIAL"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "C-0001",
+      "name": "Пономарев Степан Евгеньевич",
+      "birth": "1896",
+      "death": "",
+      "dates": "1896",
+      "place": "Большой Улуй (рождение); Красноярск (проживание)",
+      "note": "Кандидат на P-0016, НЕ объединён",
+      "role": "Запись для проверки",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "A-0009",
+        "A-0010",
+        "A-0011"
+      ],
+      "nationality": {
+        "value": "русский",
+        "basis": "index",
+        "label": "Открытый список, по красноярской базе",
+        "url": "https://ru.openlist.wiki/Пономарев_Степан_Евгеньевич_%281896%29",
+        "quote": "Национальность: русский",
+        "local_path": "findings/verified/stepan-openlist.txt",
+        "note": "Относится к архивному Степану1896, не автоматически к семейному Степану",
+        "source_sha256": "e49aa3883354759485789e11b8f3c2df8642b04a932e815a2a09c8126517499d"
+      },
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "C-0002",
+      "name": "Попонникова Зинаида Александровна",
+      "birth": "1937",
+      "death": "",
+      "dates": "1937",
+      "place": "Прокопьевск",
+      "note": "Семья уточнила Зинаиду:20.08.1937–2018, Прокопьевск. В индексе 1937 и Прокопьевск совпали, но точной даты, родителей или брака нет. Запись сохранена отдельно",
+      "role": "Запись для проверки",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "A-0012"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "C-0003",
+      "name": "Пономарева Полина Степановна",
+      "birth": "1918",
+      "death": "",
+      "dates": "1918",
+      "place": "Быковский РВК Сталинградской обл. (призыв)",
+      "note": "Одноимённая военнослужащая, родство не установлено; расходятся год и служба",
+      "role": "Запись для проверки",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "A-0017",
+        "A-0018"
+      ],
+      "nationality": {
+        "value": "русская",
+        "basis": "document",
+        "label": "Наградной лист Полины Пономаревой1918, графа5",
+        "url": "https://podvignaroda.ru/?#id=38742287&tab=navDetailManAward",
+        "quote": "Национальность Русская",
+        "local_path": "findings/polina/scans/podvig-38742287-award.jpg",
+        "note": "Не переносится на Полину Василенко1922 или семейную Полину",
+        "source_sha256": "1298635d9ae350af5569ec8135601d79d5d6c59c31d6e0f1c17e17e3e0c37aa7"
+      },
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "C-0004",
+      "name": "Попонников Александр Васильевич",
+      "birth": "1911",
+      "death": "",
+      "dates": "1911",
+      "place": "Стерлитамакский р-н Башкирской АССР; Прокопьевск",
+      "note": "Семья назвала Александра Васильевича Попонникова 1911–1995, Стерлитамак/Башкирия, дедушкой Владимира. В индексе совпали имя,1911 и район, но родственная связка не указана",
+      "role": "Запись для проверки",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "A-0013"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "C-0005",
+      "name": "Попонникова Анастасия Яковлевна",
+      "birth": "1912",
+      "death": "",
+      "dates": "1912",
+      "place": "Стерлитамакский р-н Башкирской АССР; Прокопьевск",
+      "note": "Кандидат: Анастасия Яковлевна Попонникова 1912. Семья теперь сообщает Анастасию Тупикину 1911–1960, без отчества. Год отличается, девичья фамилия и брак в индексе не названы",
+      "role": "Запись для проверки",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "A-0014"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "C-0006",
+      "name": "Попонникова Надежда Александровна",
+      "birth": "1939",
+      "death": "",
+      "dates": "1939",
+      "place": "Прокопьевск",
+      "note": "Возможная семейная группа C-0002, общая дата снятия с учёта, не доказательство",
+      "role": "Запись для проверки",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "A-0015"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "C-0007",
+      "name": "Попонников Владимир Александрович",
+      "birth": "1942",
+      "death": "",
+      "dates": "1942",
+      "place": "Прокопьевск",
+      "note": "Возможная семейная группа C-0002, общая дата снятия с учёта, не доказательство",
+      "role": "Запись для проверки",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "A-0016"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "C-0008",
+      "name": "Пономарев (Паламарчук) Евгений Максимович",
+      "birth": "1870",
+      "death": "",
+      "dates": "1870",
+      "place": "Осиевка; Большой Улуй; Беловка; Красноярск по форуму",
+      "note": "Отец C-0001 по форумному свидетельству, не предок пользователя без установления C-0001=P-0016",
+      "role": "Запись для проверки",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "A-0011"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "C-0009",
+      "name": "Анна Казимировна Цытко",
+      "birth": "1875",
+      "death": "",
+      "dates": "1875",
+      "place": "Большой Улуй по форуму",
+      "note": "Мать C-0001 по форумному свидетельству, не предок пользователя без установления связи",
+      "role": "Запись для проверки",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "A-0011"
+      ],
+      "nationality": null,
+      "origin_story": {
+        "value": null,
+        "origin_story": "Польское происхождение: семейная версия, не подтверждено документом",
+        "basis": "family-story",
+        "label": "Семейная публикация на ВГД",
+        "url": "https://forum.vgd.ru/1311/96695/",
+        "quote": "Происхождением -- предположительно -- из поляков; дочь ссыльного поляка",
+        "local_path": "findings/verified/stepan-vgd.txt",
+        "note": "Не присвоена национальность «полька»; это отдельная версия о происхождении",
+        "source_sha256": "9e3af6a537d62f639cfde3bb430c562be364c1c46342aed56a9d183ea3dfcdd9"
+      },
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "C-0010",
+      "name": "Василенко Полина Степановна",
+      "birth": "1922",
+      "death": "",
+      "dates": "1922",
+      "place": "Красноярский край, г. Ачинск (рождение)",
+      "note": "Кандидат на P-0018; запись 1519031030. Девичья фамилия, родители, муж, Бронницы и Ладога не названы; не объединена с C-0003",
+      "role": "Запись для проверки",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "A-0021",
+        "A-0027"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "C-0011",
+      "name": "Зайцев Емельян Аверьянович",
+      "birth": "1909",
+      "death": "Не установлена; в донесении пропал без вести 16.08.1943",
+      "dates": "1909",
+      "place": "Новосибирская обл., Венгеровский р-н",
+      "note": "Кандидат по ФИО и 1909. В источниках Кузьминка/Венгеровский район, в новом рассказе семьи Татарка Новосибирской области. Роль семейного места не уточнена. Послевоенное возвращение и связи с Аграфеной/Антониной не доказаны",
+      "role": "Запись для проверки",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "A-0022",
+        "A-0023"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "C-0012",
+      "name": "Ерченко Александр Федорович",
+      "birth": "1926",
+      "death": "",
+      "dates": "1926",
+      "place": "Украинская ССР, Черниговская обл., Остерский р-н, с. Соропошичи (как в карточке)",
+      "note": "Теперь семья сообщает 1926–2015 и село Сорокошицы Остерского района. Год и район совпали, написание села в карточке «Соропошичи» отличается. Совпадение стало содержательнее, но запись по-прежнему не связана документом с Антониной и Людмилой",
+      "role": "Запись для проверки",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "A-0024"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "P-0033",
+      "name": "Шевердова Екатерина Андреевна",
+      "birth": "2009",
+      "death": "",
+      "dates": "2009",
+      "place": "",
+      "note": "Сестра пользователя. Имя исправлено пользователем на Екатерина. Первоначальное написание сохранено в names_as_written как история свидетельства. Общие родители отдельно не сообщены, родительство не добавлено автоматически",
+      "role": "Ваша сестра",
+      "kind": "family",
+      "living_status": "living",
+      "source_ids": [
+        "A-0031"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "Екатерина Шевердова",
+      "record_matches": []
+    },
+    {
+      "id": "P-0034",
+      "name": "Сорокин Ефим Иванович",
+      "birth": "",
+      "death": "",
+      "dates": "",
+      "place": "",
+      "note": "Отец Алексея Ефимовича Сорокина по рассказу семьи. Фамилия Сорокин прямо уточнена пользователем. По семейному рассказу дошёл до Берлина. Найден сильный военный кандидат C-0013,1912, Игарка; родство с Алексеем и Марией по документу пока не связано. Годы 1912–1981, награда и фотография не перенесены на семейного человека как доказанные",
+      "role": "Отец Алексея Сорокина",
+      "kind": "family",
+      "living_status": "unknown",
+      "source_ids": [
+        "A-0030",
+        "A-0032"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": [
+        "C-0013"
+      ]
+    },
+    {
+      "id": "P-0035",
+      "name": "Мария",
+      "birth": "1915",
+      "death": "1986",
+      "dates": "1915–1986",
+      "place": "",
+      "note": "Сообщено «Мария 1915-86». Фамилия, отчество и место не названы. Краткий год 86 раскрыт как 1986",
+      "role": "Мать Алексея Сорокина",
+      "kind": "family",
+      "living_status": "deceased-reported",
+      "source_ids": [
+        "A-0030"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "P-0036",
+      "name": "Попонников Александр Васильевич",
+      "birth": "1911",
+      "death": "1995",
+      "dates": "1911–1995",
+      "place": "Стерлитамак, Башкирия",
+      "note": "Дедушка Владимира Сорокина. Отцовство по отношению к Зинаиде восстановлено из контекста нового сообщения. Роль указанного места не уточнена. C-0004 остаётся отдельной архивной записью",
+      "role": "Дедушка Владимира Сорокина",
+      "kind": "family",
+      "living_status": "deceased-reported",
+      "source_ids": [
+        "A-0030"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": [
+        "C-0004"
+      ]
+    },
+    {
+      "id": "P-0037",
+      "name": "Анастасия Тупикина",
+      "birth": "1911",
+      "death": "1960",
+      "dates": "1911–1960",
+      "place": "Башкирия",
+      "note": "Бабушка Владимира Сорокина. Материнство по отношению к Зинаиде восстановлено из контекста. Сообщено «Анастасия тупикина 1911-60». Отчество не названо. Не заменять её Анастасией Яковлевной 1912 из индекса",
+      "role": "Бабушка Владимира Сорокина",
+      "kind": "family",
+      "living_status": "deceased-reported",
+      "source_ids": [
+        "A-0030"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": [
+        "C-0005"
+      ]
+    },
+    {
+      "id": "C-0013",
+      "name": "Сорокин Ефим Иванович (военная запись1912)",
+      "birth": "1912",
+      "death": "1981 (по публикации)",
+      "dates": "1912–1981 (по публикации)",
+      "place": "Игарка (призыв18.06.1942); д.Изыбчуль, Ачинский район (картотека); д.Изыкчуль, Большеулуйский район (публикация); Изыкчуль, Ужурский район (книга2022); Назаровский район (послевоенное возвращение по книге)",
+      "note": "Сильный кандидат на P-0034, но жена Мария и сын Алексей 1934 в доступных материалах не названы. Повозочный 511 отдельного батальона связи 40 стрелкового корпуса, призван 18.06.1942 Игарским ГВК. Медаль «За боевые заслуги», приказ 40ск №251/н от 01.03.1945, ЦАМО ф 33 оп 686196 д 2923. Наградной лист: эпизод 13.02.1945, своевременная подвозка материалов для связи; связь наведена на 30минут раньше срока. Портрет и сведения о Берлине/смерти 1981 относятся к опубликованной исторической биографии. В наградном листе февраля 1945 нет ранений и контузий, в поздней публикации контузия без даты; различие не устранено. Написание деревни и район расходятся между источниками. Маскированная строка о семье не читалась и не восстанавливалась",
+      "role": "Запись для проверки",
+      "kind": "record",
+      "living_status": "deceased-reported",
+      "source_ids": [
+        "A-0033",
+        "A-0034",
+        "A-0035",
+        "A-0036",
+        "A-0037",
+        "A-0038",
+        "A-0039"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "Сорокин Ефим Иванович,1912",
+      "record_matches": []
+    },
+    {
+      "id": "H-P-DP01",
+      "name": "Паламарчук Максим",
+      "birth": "",
+      "death": "",
+      "dates": "",
+      "place": "",
+      "note": "отец Евгения по рассказу, регент церкви с. Осиевка",
+      "role": "Семья из публикации ВГД",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "HS-P-Q-family"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "H-P-DP04",
+      "name": "Отец Анны Цытко: Максим / Казимир",
+      "birth": "",
+      "death": "",
+      "dates": "",
+      "place": "",
+      "note": "имя не разрешено; двойное имя Максим-Казимир является предположением автора, не установленным фактом",
+      "role": "Семья из публикации ВГД",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "HS-P-Q-family",
+        "HS-P-Q-marriage"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": [
+        "H-P-DR05"
+      ]
+    },
+    {
+      "id": "H-P-DP05",
+      "name": "Паламарчук Данила Максимович",
+      "birth": "",
+      "death": "",
+      "dates": "",
+      "place": "",
+      "note": "родной брат Евгения по рассказу",
+      "role": "Семья из публикации ВГД",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "HS-P-Q-family"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "H-P-DP06",
+      "name": "Пономарев Василий Евгеньевич",
+      "birth": "1893",
+      "death": "",
+      "dates": "1893",
+      "place": "",
+      "note": "1893\n1914 на Первой мировой войне, только семейное воспоминание",
+      "role": "Семья из публикации ВГД",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "HS-P-Q-family"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "H-P-DP07",
+      "name": "Лунюшка",
+      "birth": "",
+      "death": "",
+      "dates": "",
+      "place": "",
+      "note": "жена Пономарев Василий Евгеньевич; официальное имя и фамилия неизвестны",
+      "role": "Семья из публикации ВГД",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "HS-P-Q-family"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "H-P-DP08",
+      "name": "Пономарев Степан Евгеньевич",
+      "birth": "1896",
+      "death": "",
+      "dates": "1896",
+      "place": "",
+      "note": "форумное лицо; весьма вероятное совпадение с C-0001, но не автоматическое слияние с P-0016\n1896",
+      "role": "Семья из публикации ВГД",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "HS-P-Q-family"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "H-P-DP09",
+      "name": "Аганя",
+      "birth": "",
+      "death": "",
+      "dates": "",
+      "place": "",
+      "note": "жена Пономарев Степан Евгеньевич; возможное соответствие Агафье Николаевне из рассказа пользователя не доказано",
+      "role": "Семья из публикации ВГД",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "HS-P-Q-family"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "H-P-DP10",
+      "name": "Варвара Евгеньевна Пономарева (Самсонова)",
+      "birth": "1903",
+      "death": "",
+      "dates": "1903",
+      "place": "",
+      "note": "1903",
+      "role": "Семья из публикации ВГД",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "HS-P-Q-family"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "H-P-DP11",
+      "name": "Валентина Евгеньевна Пономарева (Русанова)",
+      "birth": "1905",
+      "death": "",
+      "dates": "1905",
+      "place": "",
+      "note": "1905",
+      "role": "Семья из публикации ВГД",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "HS-P-Q-family"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "H-P-DP12",
+      "name": "Пономарев Василий Евгеньевич",
+      "birth": "1917",
+      "death": "",
+      "dates": "1917",
+      "place": "",
+      "note": "участник ВОВ по рассказу\n1917",
+      "role": "Семья из публикации ВГД",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "HS-P-Q-family"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": [
+        "H-P-DR01"
+      ]
+    },
+    {
+      "id": "H-P-DP13",
+      "name": "Надежда Евгеньевна Пономарева (Григорьева)",
+      "birth": "1910",
+      "death": "",
+      "dates": "1910",
+      "place": "",
+      "note": "1910",
+      "role": "Семья из публикации ВГД",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "HS-P-Q-family"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "H-P-DP14",
+      "name": "Григорьев Роман Григорьевич",
+      "birth": "",
+      "death": "",
+      "dates": "",
+      "place": "",
+      "note": "муж Надежда Евгеньевна Пономарева (Григорьева); учитель Троицкой школы Козульского района",
+      "role": "Семья из публикации ВГД",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "HS-P-Q-family"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": [
+        "H-P-DP19",
+        "H-P-DR02"
+      ]
+    },
+    {
+      "id": "H-P-DP15",
+      "name": "Омельян",
+      "birth": "",
+      "death": "",
+      "dates": "",
+      "place": "",
+      "note": "ребенок Данилы; фамилия и отчество по форме источника не дописаны",
+      "role": "Семья из публикации ВГД",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "HS-P-Q-family"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": [
+        "H-P-DR03",
+        "H-P-DR04"
+      ]
+    },
+    {
+      "id": "H-P-DP16",
+      "name": "Лукаш",
+      "birth": "",
+      "death": "",
+      "dates": "",
+      "place": "",
+      "note": "ребенок Данилы; фамилия и отчество по форме источника не дописаны",
+      "role": "Семья из публикации ВГД",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "HS-P-Q-family"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "H-P-DP17",
+      "name": "Елена",
+      "birth": "",
+      "death": "",
+      "dates": "",
+      "place": "",
+      "note": "ребенок Данилы; фамилия и отчество по форме источника не дописаны",
+      "role": "Семья из публикации ВГД",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "HS-P-Q-family"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "H-P-DP18",
+      "name": "Анна",
+      "birth": "",
+      "death": "",
+      "dates": "",
+      "place": "",
+      "note": "ребенок Данилы; фамилия и отчество по форме источника не дописаны",
+      "role": "Семья из публикации ВГД",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "HS-P-Q-family"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "H-P-DP19",
+      "name": "Колбасов Роман Григорьевич",
+      "birth": "1908",
+      "death": "",
+      "dates": "1908",
+      "place": "д. Первые Сильяш Октябрьского района",
+      "note": "учитель Троицкой школы; предполагаемый переезд 1927–28 в Беловку\nсильная гипотеза тождества с Григорьев Роман Григорьевич, основана на сообщениях одного автора\n1908, д. Первые Сильяш Октябрьского района",
+      "role": "Семья из публикации ВГД",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "HS-P-Q-kolbasov",
+        "HS-P-Q-kolbasov-parents"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "H-P-DP20",
+      "name": "Григорий Колбасов",
+      "birth": "",
+      "death": "",
+      "dates": "",
+      "place": "",
+      "note": "отец Колбасов Роман Григорьевич по рассказу",
+      "role": "Семья из публикации ВГД",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "HS-P-Q-kolbasov",
+        "HS-P-Q-kolbasov-parents"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "H-P-DP21",
+      "name": "Татьяна",
+      "birth": "",
+      "death": "",
+      "dates": "",
+      "place": "",
+      "note": "мать Колбасов Роман Григорьевич по рассказу; девичья фамилия и отчество не названы",
+      "role": "Семья из публикации ВГД",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "HS-P-Q-kolbasov",
+        "HS-P-Q-kolbasov-parents"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "H-P-DP22",
+      "name": "Колбасов Илья Григорьевич",
+      "birth": "",
+      "death": "",
+      "dates": "",
+      "place": "",
+      "note": "родной брат Колбасов Роман Григорьевич по рассказу; жил в Чувашии; запись о награждении автор видела в ГИА",
+      "role": "Семья из публикации ВГД",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "HS-P-Q-kolbasov"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "H-P-DR01",
+      "name": "Пономарев Василий Евгеньевич",
+      "birth": "1917",
+      "death": "",
+      "dates": "1917",
+      "place": "Красноярский край, Ачинский р-н, с. Большой Улуй",
+      "note": "историческое лицо подтверждено наградными документами; вероятное тождество Пономарев Василий Евгеньевич\n1917, Красноярский край, Ачинский р-н, с. Большой Улуй",
+      "role": "Запись в источнике",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "HS-P-Q-card-40291430",
+        "HS-P-Q-card-1268922586"
+      ],
+      "nationality": {
+        "value": "русский",
+        "basis": "document",
+        "label": "Наградной лист Василия Пономарева1917, графа5",
+        "url": "https://podvignaroda.ru/?#id=40291430&tab=navDetailManAward",
+        "quote": "Национальность: русский",
+        "local_path": "findings/deep-ponomarev/scans/vasily-award.jpg",
+        "note": "Прочитано по изображению наградного листа, не выведено из места рождения",
+        "source_sha256": "9e76d85ea359de7b2d9c771c10239143d3077384a3ae67e29e4362880e000732"
+      },
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "H-P-DR02",
+      "name": "Григорьев Роман Григорьевич",
+      "birth": "1908",
+      "death": "",
+      "dates": "1908",
+      "place": "Ачинский р-н, дер. Беловка",
+      "note": "репрессированный, сильное совпадение с Колбасов Роман Григорьевич/Григорьев Роман Григорьевич; судебное дело не получено\n1908, ЧАССР, Октябрьский р-н, дер. Первые Сильяш\nАчинский р-н, дер. Беловка",
+      "role": "Запись в источнике",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "HS-P-Q-roman-repression"
+      ],
+      "nationality": {
+        "value": "чуваш",
+        "basis": "index",
+        "label": "Открытый список, архив и Книга памяти Чувашии",
+        "url": "https://ru.openlist.wiki/Григорьев_Роман_Григорьевич_%281908%29",
+        "quote": "Национальность: чуваш",
+        "local_path": "findings/verified/deep-roman-index.txt",
+        "note": "Не переносится на Романа Колбасова до проверки тождества и не наследуется другими узлами",
+        "source_sha256": "d14d7014cda6c08d74ecf166a0b0f9686f024e6b37c4ae8061d68739a20ab32a"
+      },
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "H-P-DR03",
+      "name": "Паламарчук Емельян Данилович",
+      "birth": "1905",
+      "death": "",
+      "dates": "1905",
+      "place": "",
+      "note": "кандидат на Омельяна Омельян слабее: Джулинский РВК, но Осиевка и родители не названы\n1905",
+      "role": "Запись в источнике",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "HS-P-Q-card-41679027",
+        "HS-P-Q-card-1277442026"
+      ],
+      "nationality": {
+        "value": "украинец",
+        "basis": "document",
+        "label": "Наградной документ Емельяна Паламарчука1905, пункт11",
+        "url": "https://podvignaroda.ru/?#id=41679027&tab=navDetailManAward",
+        "quote": "1905 года рождения, украинец, беспартийный",
+        "local_path": "findings/deep-ponomarev/scans/emelyan-award.jpg",
+        "note": "Относится к наградной записи, не автоматически к Омельяну из семейного рассказа",
+        "source_sha256": "61092ef5c5d52582276e44d6d2373f37f46de3900f2074c4322a506fe639cfaa"
+      },
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "H-P-DR04",
+      "name": "Паламарчук Емельян Данилович",
+      "birth": "1905",
+      "death": "",
+      "dates": "1905",
+      "place": "с. Красноселка Джулинского р-на",
+      "note": "запись ОБД 1132777; возможное тождество Паламарчук Емельян Данилович, но не доказано; пропал без вести 19.08.1941 не равно погиб\n1905, с. Красноселка Джулинского р-на",
+      "role": "Запись в источнике",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "HS-P-Q-emelyan-loss"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "H-P-DR05",
+      "name": "Цитко Казимир",
+      "birth": "",
+      "death": "",
+      "dates": "",
+      "place": "",
+      "note": "оптант из дела 159, пункт 47; тождество с отцом Анны не установлено",
+      "role": "Запись в источнике",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "HS-P-Q-optants",
+        "HS-P-Q-optants-query"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "H-Q-DP-P02",
+      "name": "Попонников Василий Иванович",
+      "birth": "1875",
+      "death": "",
+      "dates": "1875",
+      "place": "Башкирская АССР, Стерлитамакский р-н; Кемеровская обл., Прокопьевск",
+      "note": "Дата рождения: 1875 г.\nПол: мужчина\nМесто проживания: Башкирская АССР, Стерлитамакский р-н\nОсуждение: 1931 г.\nПриговор: раскулачивание\nМесто отбывания: Кемеровская обл., Прокопьевск\nКомментарий к аресту: снят с учета 15.06.1950\nИсточники данных: МВД Республики Башкирия\nРодственные роли в карточке не указаны",
+      "role": "Гипотеза семейной группы",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "HS-Q-DP-P02"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "H-Q-DP-P04",
+      "name": "Попонников Владимир Васильевич",
+      "birth": "1921",
+      "death": "",
+      "dates": "1921",
+      "place": "Башкирская АССР, Стерлитамакский р-н; Кемеровская обл., Прокопьевск",
+      "note": "Дата рождения: 1921 г.\nПол: мужчина\nМесто проживания: Башкирская АССР, Стерлитамакский р-н\nОсуждение: 1931 г.\nПриговор: раскулачивание\nМесто отбывания: Кемеровская обл., Прокопьевск\nИсточники данных: МВД Республики Башкирия\nРодственные роли в карточке не указаны",
+      "role": "Гипотеза семейной группы",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "HS-Q-DP-P04"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "H-Q-DP-P07",
+      "name": "Попонникова Анна Васильевна",
+      "birth": "1925",
+      "death": "",
+      "dates": "1925",
+      "place": "Башкирская АССР, Стерлитамакский р-н; Кемеровская обл., Прокопьевск",
+      "note": "Дата рождения: 1925 г.\nПол: женщина\nМесто проживания: Башкирская АССР, Стерлитамакский р-н\nОсуждение: 1931 г.\nПриговор: раскулачивание\nМесто отбывания: Кемеровская обл., Прокопьевск\nКомментарий к аресту: снята с учета 17.06.1942\nИсточники данных: МВД Республики Башкирия\nРодственные роли в карточке не указаны",
+      "role": "Гипотеза семейной группы",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "HS-Q-DP-P07"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "H-Q-DP-P08",
+      "name": "Попонникова Евдокия Васильевна",
+      "birth": "1915",
+      "death": "",
+      "dates": "1915",
+      "place": "Башкирская АССР, Стерлитамакский р-н; Кемеровская обл., Прокопьевск",
+      "note": "Дата рождения: 1915 г.\nПол: женщина\nМесто проживания: Башкирская АССР, Стерлитамакский р-н\nОсуждение: 1931 г.\nПриговор: раскулачивание\nМесто отбывания: Кемеровская обл., Прокопьевск\nИсточники данных: МВД Республики Башкирия\nРодственные роли в карточке не указаны",
+      "role": "Гипотеза семейной группы",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "HS-Q-DP-P08"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "H-Q-DP-P09",
+      "name": "Попонникова Елена Игнатьевна",
+      "birth": "1875",
+      "death": "",
+      "dates": "1875",
+      "place": "Башкирская АССР, Стерлитамакский р-н; Кемеровская обл., Прокопьевск",
+      "note": "Дата рождения: 1875 г.\nПол: женщина\nМесто проживания: Башкирская АССР, Стерлитамакский р-н\nОсуждение: 1931 г.\nПриговор: раскулачивание\nМесто отбывания: Кемеровская обл., Прокопьевск\nИсточники данных: МВД Республики Башкирия\nРодственные роли в карточке не указаны",
+      "role": "Гипотеза семейной группы",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "HS-Q-DP-P09"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "H-Q-DP-P11",
+      "name": "Попонникова Мария Васильевна",
+      "birth": "1924",
+      "death": "",
+      "dates": "1924",
+      "place": "Башкирская АССР, Стерлитамакский р-н; Кемеровская обл., Прокопьевск",
+      "note": "Дата рождения: 1924 г.\nПол: женщина\nМесто проживания: Башкирская АССР, Стерлитамакский р-н\nОсуждение: 1931 г.\nПриговор: раскулачивание\nМесто отбывания: Кемеровская обл., Прокопьевск\nКомментарий к аресту: снята с учета 31.10.1940\nИсточники данных: МВД Республики Башкирия\nРодственные роли в карточке не указаны",
+      "role": "Гипотеза семейной группы",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "HS-Q-DP-P11"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "H-Z-AFANAS",
+      "name": "Зыкин Афанасий Алексеевич",
+      "birth": "1910",
+      "death": "",
+      "dates": "1910",
+      "place": "Кировская обл., д. Зыкины",
+      "note": "Возможный отец Николая 1932, но сын не назван. Шепелевский с/с в донесении, Блиновский в Книге памяти",
+      "role": "Возможный отец Николая",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "HS-Z-AFANAS"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "H-Z-MARIA",
+      "name": "Зыкина Мария Михайловна",
+      "birth": "",
+      "death": "",
+      "dates": "",
+      "place": "д. Зыкины",
+      "note": "Жена Афанасия прямо названа в одном документе. Материнство в отношении Николая не установлено",
+      "role": "Жена в донесении",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "HS-Z-AFANAS"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "H-M-PETR",
+      "name": "Ерченко Петр Федорович",
+      "birth": "1919",
+      "death": "",
+      "dates": "1919",
+      "place": "с. Сорокошочи, Остерский район",
+      "note": "Возможный брат или иной родственник архивного Александра 1926. Общие родители не названы",
+      "role": "Возможная боковая ветвь",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "HS-M-PETR"
+      ],
+      "nationality": {
+        "value": "украинец",
+        "basis": "document",
+        "label": "Наградной лист Петра Ерченко1919, графа5",
+        "url": "https://podvignaroda.ru/?#id=39688932&tab=navDetailManAward",
+        "quote": "Национальность: украинец",
+        "local_path": "findings/deep-maternal/scans/podvig-39688945.jpg",
+        "note": "Национальность Петра не переносится на возможного родственника Александра",
+        "source_sha256": "9e45e184253c9aaf8e6ae1b2d5fb25ba3822981383f9b1dbcc5e51a3f967de56"
+      },
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "H-M-AVER-EM",
+      "name": "Зайцев Аверьян",
+      "birth": "",
+      "death": "",
+      "dates": "",
+      "place": "Венгеровский район",
+      "note": "Отец Емельяна прямо назван в донесении, его отчество не указано",
+      "role": "Отец в документе Емельяна",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "A-0023"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "H-M-AVER-TIM",
+      "name": "Зайцев Аверьян Кузьмич",
+      "birth": "",
+      "death": "",
+      "dates": "",
+      "place": "Венгеровский район",
+      "note": "Отец Тимофея 1919, не отождествлён с отцом Емельяна",
+      "role": "Отец в документе Тимофея",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "HS-M-TIM19"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "H-M-TIM19",
+      "name": "Зайцев Тимофей Аверьянович",
+      "birth": "1919",
+      "death": "",
+      "dates": "1919",
+      "place": "Венгеровский район",
+      "note": "304сд, пропал без вести 24.08.1942, отдельная запись",
+      "role": "Слабая боковая гипотеза",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "HS-M-TIM19"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "H-M-TIM24",
+      "name": "Зайцев Тимофей Аверьянович",
+      "birth": "10.06.1924",
+      "death": "",
+      "dates": "10.06.1924",
+      "place": "Б.-Сюган",
+      "note": "Не объединён с Тимофеем 1919 из-за расхождений дат",
+      "role": "Отдельный одноимённый кандидат",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "HS-M-TIM24"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    },
+    {
+      "id": "H-M-NIK",
+      "name": "Зайцев Николай Аверьянович",
+      "birth": "1926",
+      "death": "",
+      "dates": "1926",
+      "place": "Б.-Сюган",
+      "note": "Возможное родство по редкому отчеству и району, не установленный брат Емельяна",
+      "role": "Слабая боковая гипотеза",
+      "kind": "record",
+      "living_status": "unknown",
+      "source_ids": [
+        "HS-M-NIK"
+      ],
+      "nationality": null,
+      "origin_story": null,
+      "variants": "",
+      "record_matches": []
+    }
+  ],
+  "families": [
+    {
+      "id": "F-home",
+      "title": "Ваша семья",
+      "caption": "Елена и Андрей, вы и сестра",
+      "parents": [
+        "P-0002",
+        "P-0003"
+      ],
+      "children": [
+        "P-0001",
+        "P-0033"
+      ],
+      "peers": [],
+      "branch": "home",
+      "status": "family",
+      "note": "По новому прямому уточнению пользователя Екатерина является дочерью Елены и Андрея. Основание: USER-RULE-FAMILY-PARENTS; не архивный акт",
+      "source_ids": [
+        "A-USER-INITIAL",
+        "A-0031",
+        "USER-RULE-FAMILY-PARENTS"
+      ],
+      "related": [],
+      "link_note": "",
+      "ancestors": [
+        {
+          "family_id": "F-maternal",
+          "through_person_id": "P-0002",
+          "status": "family",
+          "note": "По семейному рассказу"
+        },
+        {
+          "family_id": "F-paternal",
+          "through_person_id": "P-0003",
+          "status": "family",
+          "note": "По семейному рассказу"
+        }
+      ],
+      "descendants": []
+    },
+    {
+      "id": "F-maternal",
+      "title": "Сорокины и Ерченко",
+      "caption": "Людмила и Владимир · семья мамы",
+      "parents": [
+        "P-0004",
+        "P-0005"
+      ],
+      "children": [
+        "P-0002"
+      ],
+      "peers": [],
+      "branch": "maternal",
+      "status": "family",
+      "note": "",
+      "source_ids": [
+        "A-0008",
+        "A-0030"
+      ],
+      "related": [],
+      "link_note": "",
+      "ancestors": [
+        {
+          "family_id": "F-erchenko",
+          "through_person_id": "P-0004",
+          "status": "family",
+          "note": "По семейному рассказу"
+        },
+        {
+          "family_id": "F-sorokin",
+          "through_person_id": "P-0005",
+          "status": "family",
+          "note": "По семейному рассказу"
+        }
+      ],
+      "descendants": [
+        {
+          "family_id": "F-home",
+          "through_person_id": "P-0002"
+        }
+      ]
+    },
+    {
+      "id": "F-paternal",
+      "title": "Шевердовы и Зыкины",
+      "caption": "Ольга и Владимир · семья папы",
+      "parents": [
+        "P-0006",
+        "P-0007"
+      ],
+      "children": [
+        "P-0003"
+      ],
+      "peers": [],
+      "branch": "paternal",
+      "status": "family",
+      "note": "",
+      "source_ids": [
+        "A-0007"
+      ],
+      "related": [],
+      "link_note": "",
+      "ancestors": [
+        {
+          "family_id": "F-zykin",
+          "through_person_id": "P-0006",
+          "status": "family",
+          "note": "По семейному рассказу"
+        },
+        {
+          "family_id": "F-sheverdov",
+          "through_person_id": "P-0007",
+          "status": "family",
+          "note": "По семейному рассказу"
+        }
+      ],
+      "descendants": [
+        {
+          "family_id": "F-home",
+          "through_person_id": "P-0003"
+        }
+      ]
+    },
+    {
+      "id": "F-erchenko",
+      "title": "Ерченко и Зайцевы",
+      "caption": "Александр и Антонина · родители Людмилы",
+      "parents": [
+        "P-0008",
+        "P-0009"
+      ],
+      "children": [
+        "P-0004"
+      ],
+      "peers": [],
+      "branch": "maternal",
+      "status": "family",
+      "note": "Александр: 1926–2015, село Сорокошицы Остерского района. Антонина: 1930–1993. Это новое уточнение семьи, не архивный акт",
+      "source_ids": [
+        "A-0030"
+      ],
+      "related": [
+        {
+          "person_id": "H-M-PETR",
+          "label": "Возможный родственник Александра",
+          "status": "hypothesis",
+          "note": "Пётр Федорович1919, тот же район и близкое написание села, но общие родители не установлены"
+        }
+      ],
+      "link_note": "",
+      "ancestors": [
+        {
+          "family_id": "F-zaitsev",
+          "through_person_id": "P-0009",
+          "status": "family",
+          "note": "Прямо названы дедушкой и бабушкой Людмилы. Их родительство по отношению к Антонине следует из контекста, отдельно не подтверждалось"
+        }
+      ],
+      "descendants": [
+        {
+          "family_id": "F-maternal",
+          "through_person_id": "P-0004"
+        }
+      ]
+    },
+    {
+      "id": "F-sorokin",
+      "title": "Сорокины и Попонниковы",
+      "caption": "Алексей и Зинаида · родители Владимира",
+      "parents": [
+        "P-0012",
+        "P-0013"
+      ],
+      "children": [
+        "P-0005"
+      ],
+      "peers": [],
+      "branch": "maternal",
+      "status": "family",
+      "note": "",
+      "source_ids": [
+        "A-0030"
+      ],
+      "related": [],
+      "link_note": "",
+      "ancestors": [
+        {
+          "family_id": "F-efim-maria",
+          "through_person_id": "P-0012",
+          "status": "family",
+          "note": "По семейному рассказу"
+        },
+        {
+          "family_id": "F-poponnikov",
+          "through_person_id": "P-0013",
+          "status": "family",
+          "note": "Они прямо названы дедушкой и бабушкой Владимира. Родительство по отношению к Зинаиде восстановлено из контекста"
+        }
+      ],
+      "descendants": [
+        {
+          "family_id": "F-maternal",
+          "through_person_id": "P-0005"
+        }
+      ]
+    },
+    {
+      "id": "F-zaitsev",
+      "title": "Зайцевы",
+      "caption": "Емельян и Аграфена · старшее поколение Людмилы",
+      "parents": [
+        "P-0011",
+        "P-0010"
+      ],
+      "children": [
+        "P-0009"
+      ],
+      "peers": [],
+      "branch": "maternal",
+      "status": "family",
+      "note": "Для Емельяна семья указала Татарку Новосибирской области. У военного кандидата другая география, его запись остаётся отдельной",
+      "source_ids": [
+        "A-0008",
+        "A-0030"
+      ],
+      "related": [],
+      "link_note": "Прямо названы дедушкой и бабушкой Людмилы. Их родительство по отношению к Антонине следует из контекста, отдельно не подтверждалось",
+      "ancestors": [],
+      "descendants": [
+        {
+          "family_id": "F-erchenko",
+          "through_person_id": "P-0009"
+        }
+      ]
+    },
+    {
+      "id": "F-efim-maria",
+      "title": "Ефим и Мария",
+      "caption": "Родители Алексея Сорокина",
+      "parents": [
+        "P-0034",
+        "P-0035"
+      ],
+      "children": [
+        "P-0012"
+      ],
+      "peers": [],
+      "branch": "maternal",
+      "status": "family",
+      "note": "Фамилия Ефима Сорокин прямо уточнена пользователем. По рассказу дошёл до Берлина. Военный кандидат1912 C-0013 с Игарским призывом сохранён отдельно: семейная связка с Марией и Алексеем не найдена. Фамилия и отчество Марии неизвестны",
+      "source_ids": [
+        "A-0030",
+        "A-0032"
+      ],
+      "related": [
+        {
+          "person_id": "C-0013",
+          "label": "Возможное совпадение с Ефимом · военная запись1912",
+          "status": "hypothesis",
+          "note": "ФИО, Игарка и Берлин совпали. Оригинальные наградные документы, портрет и биография относятся к кандидату, не переносятся на семейную личность до проверки связи с Марией и Алексеем"
+        }
+      ],
+      "link_note": "",
+      "ancestors": [],
+      "descendants": [
+        {
+          "family_id": "F-sorokin",
+          "through_person_id": "P-0012"
+        }
+      ]
+    },
+    {
+      "id": "F-poponnikov",
+      "title": "Попонниковы и Тупикина",
+      "caption": "Александр и Анастасия · старшее поколение Владимира",
+      "parents": [
+        "P-0036",
+        "P-0037"
+      ],
+      "children": [
+        "P-0013"
+      ],
+      "peers": [],
+      "branch": "maternal",
+      "status": "family",
+      "note": "Анастасия Тупикина1911–1960 не объединена с Анастасией Яковлевной Попонниковой1912 из индекса",
+      "source_ids": [
+        "A-0030"
+      ],
+      "related": [
+        {
+          "person_id": "C-0006",
+          "label": "Возможная сестра Зинаиды",
+          "status": "hypothesis",
+          "note": "Надежда Александровна1939, роли в исходной карточке не названы"
+        },
+        {
+          "person_id": "C-0007",
+          "label": "Возможный брат Зинаиды",
+          "status": "hypothesis",
+          "note": "Владимир Александрович1942, роли в исходной карточке не названы"
+        }
+      ],
+      "link_note": "Они прямо названы дедушкой и бабушкой Владимира. Родительство по отношению к Зинаиде восстановлено из контекста",
+      "ancestors": [
+        {
+          "family_id": "F-hyp-poponnikov",
+          "through_person_id": "P-0036",
+          "status": "hypothesis",
+          "note": "Требуются посемейные списки, включая проверку тождества архивного Александра1911"
+        }
+      ],
+      "descendants": [
+        {
+          "family_id": "F-sorokin",
+          "through_person_id": "P-0013"
+        }
+      ]
+    },
+    {
+      "id": "F-zykin",
+      "title": "Зыкины",
+      "caption": "Галина и Николай · родители Ольги",
+      "parents": [
+        "P-0014",
+        "P-0015"
+      ],
+      "children": [
+        "P-0006",
+        "P-0031",
+        "P-0032"
+      ],
+      "peers": [],
+      "branch": "paternal",
+      "status": "family",
+      "note": "",
+      "source_ids": [
+        "A-0007"
+      ],
+      "related": [],
+      "link_note": "",
+      "ancestors": [
+        {
+          "family_id": "F-ponomarev",
+          "through_person_id": "P-0014",
+          "status": "family",
+          "note": "По семейному рассказу"
+        },
+        {
+          "family_id": "F-hyp-zykin",
+          "through_person_id": "P-0015",
+          "status": "hypothesis",
+          "note": "Предположение об отцовстве и материнстве, не найденный состав семьи"
+        }
+      ],
+      "descendants": [
+        {
+          "family_id": "F-paternal",
+          "through_person_id": "P-0006"
+        }
+      ]
+    },
+    {
+      "id": "F-ponomarev",
+      "title": "Пономаревы",
+      "caption": "Степан и Агафья · родители Галины",
+      "parents": [
+        "P-0016",
+        "P-0017"
+      ],
+      "children": [
+        "P-0014",
+        "P-0018",
+        "P-0020"
+      ],
+      "peers": [],
+      "branch": "paternal",
+      "status": "family",
+      "note": "Степан-отец и Степан-брат Галины — разные люди. Архивный Степан Евгеньевич1896 остаётся кандидатом, не установленным тождеством",
+      "source_ids": [
+        "A-0007"
+      ],
+      "related": [],
+      "link_note": "",
+      "ancestors": [
+        {
+          "family_id": "F-hyp-ponomarev",
+          "through_person_id": "P-0016",
+          "status": "hypothesis",
+          "note": "Возможные родители Степана, только если сопоставление с форумной семьёй подтвердится"
+        }
+      ],
+      "descendants": [
+        {
+          "family_id": "F-zykin",
+          "through_person_id": "P-0014"
+        },
+        {
+          "family_id": "F-polina",
+          "through_person_id": "P-0018"
+        },
+        {
+          "family_id": "F-stepan-younger",
+          "through_person_id": "P-0020"
+        }
+      ]
+    },
+    {
+      "id": "F-sheverdov",
+      "title": "Шевердовы",
+      "caption": "Владимир Никонорович и Лидия",
+      "parents": [
+        "P-0024",
+        "P-0025"
+      ],
+      "children": [
+        "P-0007"
+      ],
+      "peers": [],
+      "branch": "paternal",
+      "status": "family",
+      "note": "",
+      "source_ids": [
+        "A-0007"
+      ],
+      "related": [
+        {
+          "person_id": "P-0030",
+          "label": "Брат Владимира Никоноровича",
+          "status": "family",
+          "note": "По рассказу работал актёром в Назарово, имя неизвестно"
+        }
+      ],
+      "link_note": "",
+      "ancestors": [
+        {
+          "family_id": "F-zoya",
+          "through_person_id": "P-0025",
+          "status": "family",
+          "note": "По семейному рассказу"
+        }
+      ],
+      "descendants": [
+        {
+          "family_id": "F-paternal",
+          "through_person_id": "P-0007"
+        }
+      ]
+    },
+    {
+      "id": "F-zoya",
+      "title": "Зоя и её дети",
+      "caption": "Семья Лидии Михайловны",
+      "parents": [
+        "P-0026"
+      ],
+      "children": [
+        "P-0025",
+        "P-0027",
+        "P-0028",
+        "P-0029"
+      ],
+      "peers": [],
+      "branch": "paternal",
+      "status": "family",
+      "note": "",
+      "source_ids": [
+        "A-0007"
+      ],
+      "related": [],
+      "link_note": "",
+      "ancestors": [],
+      "descendants": [
+        {
+          "family_id": "F-sheverdov",
+          "through_person_id": "P-0025"
+        }
+      ]
+    },
+    {
+      "id": "F-polina",
+      "title": "Пономарева и Василенко",
+      "caption": "Полина и Василий",
+      "parents": [
+        "P-0018",
+        "P-0019"
+      ],
+      "children": [
+        "P-0023"
+      ],
+      "peers": [],
+      "branch": "paternal",
+      "status": "family",
+      "note": "Связь Полины с военными записями и служба на Ладоге пока не доказаны",
+      "source_ids": [
+        "A-0007"
+      ],
+      "related": [],
+      "link_note": "Тип семейной связи с Сашей см. в рассказе; биологическое родство не утверждается",
+      "ancestors": [
+        {
+          "family_id": "F-ponomarev",
+          "through_person_id": "P-0018",
+          "status": "family",
+          "note": "По семейному рассказу"
+        }
+      ],
+      "descendants": []
+    },
+    {
+      "id": "F-stepan-younger",
+      "title": "Семья брата Галины",
+      "caption": "Степан, Саша и Наташа",
+      "parents": [
+        "P-0020"
+      ],
+      "children": [
+        "P-0021",
+        "P-0022"
+      ],
+      "peers": [],
+      "branch": "paternal",
+      "status": "family",
+      "note": "",
+      "source_ids": [
+        "A-0007"
+      ],
+      "related": [],
+      "link_note": "",
+      "ancestors": [
+        {
+          "family_id": "F-ponomarev",
+          "through_person_id": "P-0020",
+          "status": "family",
+          "note": "По семейному рассказу"
+        }
+      ],
+      "descendants": []
+    },
+    {
+      "id": "F-hyp-ponomarev",
+      "title": "Евгений и Анна",
+      "caption": "Возможное старшее поколение Пономаревых",
+      "parents": [
+        "C-0008",
+        "C-0009"
+      ],
+      "children": [
+        "H-P-DP06",
+        "P-0016",
+        "H-P-DP10",
+        "H-P-DP11",
+        "H-P-DP13",
+        "H-P-DP12"
+      ],
+      "peers": [],
+      "branch": "paternal",
+      "status": "hypothesis",
+      "note": "Семья описана другим исследователем на ВГД. Связь с вами зависит от тождества Степана из рассказа и найденных записей. Два Василия1893 и1917 сохранены отдельно",
+      "source_ids": [
+        "A-0011",
+        "HS-P-Q-family"
+      ],
+      "related": [],
+      "link_note": "Возможные родители Степана, только если сопоставление с форумной семьёй подтвердится",
+      "ancestors": [
+        {
+          "family_id": "F-hyp-maxim",
+          "through_person_id": "C-0008",
+          "status": "hypothesis",
+          "note": "Предполагаемая связь, не установленное родство"
+        },
+        {
+          "family_id": "F-hyp-cytko",
+          "through_person_id": "C-0009",
+          "status": "hypothesis",
+          "note": "Предполагаемая связь, не установленное родство"
+        }
+      ],
+      "descendants": [
+        {
+          "family_id": "F-ponomarev",
+          "through_person_id": "P-0016"
+        },
+        {
+          "family_id": "F-hyp-roman",
+          "through_person_id": "H-P-DP13"
+        },
+        {
+          "family_id": "F-hyp-vasily1893",
+          "through_person_id": "H-P-DP06"
+        }
+      ]
+    },
+    {
+      "id": "F-hyp-maxim",
+      "title": "Максим Паламарчук",
+      "caption": "Предполагаемое старшее поколение в Осиевке",
+      "parents": [
+        "H-P-DP01"
+      ],
+      "children": [
+        "C-0008",
+        "H-P-DP05"
+      ],
+      "peers": [],
+      "branch": "paternal",
+      "status": "hypothesis",
+      "note": "Регент церкви в Осиевке по чужому семейному исследованию. Для Данилы отцовство дополнительно выводится из братства и отчества",
+      "source_ids": [
+        "HS-P-Q-family"
+      ],
+      "related": [],
+      "link_note": "",
+      "ancestors": [],
+      "descendants": [
+        {
+          "family_id": "F-hyp-ponomarev",
+          "through_person_id": "C-0008"
+        },
+        {
+          "family_id": "F-hyp-danila",
+          "through_person_id": "H-P-DP05"
+        }
+      ]
+    },
+    {
+      "id": "F-hyp-cytko",
+      "title": "Отец Анны Цытко",
+      "caption": "Имя в источниках расходится",
+      "parents": [
+        "H-P-DP04"
+      ],
+      "children": [
+        "C-0009"
+      ],
+      "peers": [],
+      "branch": "paternal",
+      "status": "hypothesis",
+      "note": "Максим / Казимир — не установленное двойное имя. Польское происхождение остаётся семейной версией, не установленной национальностью",
+      "source_ids": [
+        "HS-P-Q-family",
+        "HS-P-Q-marriage"
+      ],
+      "related": [],
+      "link_note": "",
+      "ancestors": [],
+      "descendants": [
+        {
+          "family_id": "F-hyp-ponomarev",
+          "through_person_id": "C-0009"
+        }
+      ]
+    },
+    {
+      "id": "F-hyp-danila",
+      "title": "Данила Паламарчук",
+      "caption": "Боковая ветвь из семейной публикации",
+      "parents": [
+        "H-P-DP05"
+      ],
+      "children": [
+        "H-P-DP15",
+        "H-P-DP16",
+        "H-P-DP17",
+        "H-P-DP18"
+      ],
+      "peers": [],
+      "branch": "paternal",
+      "status": "hypothesis",
+      "note": "",
+      "source_ids": [
+        "HS-P-Q-family"
+      ],
+      "related": [],
+      "link_note": "",
+      "ancestors": [
+        {
+          "family_id": "F-hyp-maxim",
+          "through_person_id": "H-P-DP05",
+          "status": "hypothesis",
+          "note": "Предполагаемая связь, не установленное родство"
+        }
+      ],
+      "descendants": []
+    },
+    {
+      "id": "F-hyp-roman",
+      "title": "Надежда и Роман",
+      "caption": "Возможная боковая ветвь Пономаревых",
+      "parents": [
+        "H-P-DP13",
+        "H-P-DP14"
+      ],
+      "children": [],
+      "peers": [],
+      "branch": "paternal",
+      "status": "hypothesis",
+      "note": "Роман Григорьев / Колбасов: тождество записей не доказано. Национальность в репрессивной карточке относится только к той записи",
+      "source_ids": [
+        "HS-P-Q-family"
+      ],
+      "related": [],
+      "link_note": "",
+      "ancestors": [
+        {
+          "family_id": "F-hyp-ponomarev",
+          "through_person_id": "H-P-DP13",
+          "status": "hypothesis",
+          "note": "Возможные родители Степана, только если сопоставление с форумной семьёй подтвердится"
+        },
+        {
+          "family_id": "F-hyp-roman-parents",
+          "through_person_id": "H-P-DP14",
+          "status": "hypothesis",
+          "note": "Связь с Романом из семьи Надежды зависит от гипотезы Григорьев / Колбасов"
+        }
+      ],
+      "descendants": []
+    },
+    {
+      "id": "F-hyp-roman-parents",
+      "title": "Григорий и Татьяна",
+      "caption": "Семья Романа Колбасова из публикации",
+      "parents": [
+        "H-P-DP20",
+        "H-P-DP21"
+      ],
+      "children": [
+        "H-P-DP14",
+        "H-P-DP22"
+      ],
+      "peers": [],
+      "branch": "paternal",
+      "status": "hypothesis",
+      "note": "",
+      "source_ids": [
+        "HS-P-Q-kolbasov"
+      ],
+      "related": [],
+      "link_note": "Связь с Романом из семьи Надежды зависит от гипотезы Григорьев / Колбасов",
+      "ancestors": [],
+      "descendants": [
+        {
+          "family_id": "F-hyp-roman",
+          "through_person_id": "H-P-DP14"
+        }
+      ]
+    },
+    {
+      "id": "F-hyp-vasily1893",
+      "title": "Василий и Лунюшка",
+      "caption": "Боковая семья Василия1893",
+      "parents": [
+        "H-P-DP06",
+        "H-P-DP07"
+      ],
+      "children": [],
+      "peers": [],
+      "branch": "paternal",
+      "status": "hypothesis",
+      "note": "Гибель Василия в Первую мировую и имя супруги известны только из семейной публикации",
+      "source_ids": [
+        "HS-P-Q-family"
+      ],
+      "related": [],
+      "link_note": "",
+      "ancestors": [
+        {
+          "family_id": "F-hyp-ponomarev",
+          "through_person_id": "H-P-DP06",
+          "status": "hypothesis",
+          "note": "Возможные родители Степана, только если сопоставление с форумной семьёй подтвердится"
+        }
+      ],
+      "descendants": []
+    },
+    {
+      "id": "F-hyp-zykin",
+      "title": "Афанасий и Мария",
+      "caption": "Возможные родители Николая Зыкина",
+      "parents": [
+        "H-Z-AFANAS",
+        "H-Z-MARIA"
+      ],
+      "children": [
+        "P-0015"
+      ],
+      "peers": [],
+      "branch": "paternal",
+      "status": "hypothesis",
+      "note": "Мария прямо названа женой Афанасия в донесении. Николай в документе не указан, точное Зыкино не установлено",
+      "source_ids": [
+        "HS-Z-AFANAS"
+      ],
+      "related": [],
+      "link_note": "Предположение об отцовстве и материнстве, не найденный состав семьи",
+      "ancestors": [],
+      "descendants": [
+        {
+          "family_id": "F-zykin",
+          "through_person_id": "P-0015"
+        }
+      ]
+    },
+    {
+      "id": "F-hyp-poponnikov",
+      "title": "Василий Попонников",
+      "caption": "Возможный отец Александра",
+      "parents": [
+        "H-Q-DP-P02"
+      ],
+      "children": [
+        "P-0036"
+      ],
+      "peers": [],
+      "branch": "maternal",
+      "status": "hypothesis",
+      "note": "Основание — отчество и общий маршрут высылки, а не посемейный документ. Елена Игнатьевна показана только как возможная супруга, не как установленная мать детей",
+      "source_ids": [
+        "HS-Q-DP-P02"
+      ],
+      "related": [
+        {
+          "person_id": "H-Q-DP-P09",
+          "label": "Возможная супруга Василия",
+          "status": "hypothesis",
+          "note": "Брак и материнство не установлены"
+        }
+      ],
+      "link_note": "Требуются посемейные списки, включая проверку тождества архивного Александра1911",
+      "ancestors": [],
+      "descendants": [
+        {
+          "family_id": "F-poponnikov",
+          "through_person_id": "P-0036"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "A-USER-INITIAL",
+      "title": "Первичные сообщения пользователя",
+      "url": null,
+      "kind": "family-testimony",
+      "summary": "Первый и второй проход до уточнения имён",
+      "note": ""
+    },
+    {
+      "id": "A-0001",
+      "title": "История Железногорска",
+      "url": "https://www.admk26.ru/o_gorode/istoriya",
+      "kind": "index",
+      "summary": "",
+      "note": "Прочитано в предыдущем проходе, детали в research-state.md; родство не установлено"
+    },
+    {
+      "id": "A-0002",
+      "title": "Поиск Зыкин",
+      "url": "https://ru.openlist.wiki/Special:OlSearch?olsearch-run=1&olsearch-name-fulltext=Зыкин",
+      "kind": "index",
+      "summary": "",
+      "note": "Прочитано в предыдущем проходе, детали в research-state.md; родство не установлено"
+    },
+    {
+      "id": "A-0003",
+      "title": "Зыкин Игнатий Андреевич (1889)",
+      "url": "https://ru.openlist.wiki/Зыкин_Игнатий_Андреевич_(1889)",
+      "kind": "index",
+      "summary": "",
+      "note": "Прочитано в предыдущем проходе, детали в research-state.md; родство не установлено"
+    },
+    {
+      "id": "A-0004",
+      "title": "Поиск Шевердов",
+      "url": "https://ru.openlist.wiki/Special:OlSearch?olsearch-run=1&olsearch-name-fulltext=Шевердов",
+      "kind": "index",
+      "summary": "",
+      "note": "Прочитано в предыдущем проходе, детали в research-state.md; родство не установлено"
+    },
+    {
+      "id": "A-0005",
+      "title": "Шевердов Александр Яковлевич (1892)",
+      "url": "https://ru.openlist.wiki/Шевердов_Александр_Яковлевич_(1892)",
+      "kind": "index",
+      "summary": "",
+      "note": "Прочитано в предыдущем проходе, детали в research-state.md; родство не установлено"
+    },
+    {
+      "id": "A-0006",
+      "title": "Шевердова Прасковья Андреевна (1897)",
+      "url": "https://ru.openlist.wiki/Шевердова_Прасковья_Андреевна_(1897)",
+      "kind": "index",
+      "summary": "",
+      "note": "Прочитано в предыдущем проходе, детали в research-state.md; родство не установлено"
+    },
+    {
+      "id": "A-0007",
+      "title": "Отцовские ветви со слов пользователя",
+      "url": null,
+      "kind": "family-testimony",
+      "summary": "",
+      "note": "Оригинальный текст сохранён дословно, приблизительные даты не превращены в точные"
+    },
+    {
+      "id": "A-0008",
+      "title": "Материнские ветви со слов пользователя",
+      "url": null,
+      "kind": "family-testimony",
+      "summary": "",
+      "note": "Оригинальный текст сохранён дословно, приблизительные даты не превращены в точные"
+    },
+    {
+      "id": "A-0009",
+      "title": "Пономарев Степан Евгеньевич, 1896",
+      "url": "https://ru.openlist.wiki/Пономарев_Степан_Евгеньевич_(1896)",
+      "kind": "index",
+      "summary": "Большой Улуй; арест 31.10.1941; приговор 11.02.1942, 7 лет; реабилитация 09.07.1962",
+      "note": ""
+    },
+    {
+      "id": "A-0010",
+      "title": "Книга памяти Красноярского края, т.6, Пономарев",
+      "url": "https://bessmertnybarak.com/books/person/354844/",
+      "kind": "index",
+      "summary": "",
+      "note": "Не независима от A-0009, общий региональный источник"
+    },
+    {
+      "id": "A-0011",
+      "title": "Семейное исследование Пономаревы / Паламарчук",
+      "url": "https://forum.vgd.ru/1311/96695/",
+      "kind": "family-forum",
+      "summary": "Степан 1896, жена Аганя, отец Евгений Максимович, мать Анна Казимировна Цытко",
+      "note": "Не первичный документ; Аганя не доказанное тождество Агафье; родственники пользователя не установлены"
+    },
+    {
+      "id": "A-0012",
+      "title": "Попонникова Зинаида Александровна, 1937",
+      "url": "https://ru.openlist.wiki/Попонникова_Зинаида_Александровна_(1937)",
+      "kind": "index",
+      "summary": "Прокопьевск; спецпоселение; снята с учёта 15.06.1950",
+      "note": "Поле осуждение 1937 совпадает с годом рождения, не интерпретировать как уголовный приговор младенцу"
+    },
+    {
+      "id": "A-0013",
+      "title": "Попонников Александр Васильевич",
+      "url": "https://ru.openlist.wiki/%D0%9F%D0%BE%D0%BF%D0%BE%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87_(1911)",
+      "kind": "index",
+      "summary": "",
+      "note": "Общая дата снятия с учёта не доказывает родство"
+    },
+    {
+      "id": "A-0014",
+      "title": "Попонникова Анастасия Яковлевна",
+      "url": "https://ru.openlist.wiki/%D0%9F%D0%BE%D0%BF%D0%BE%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0_%D0%90%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D1%81%D0%B8%D1%8F_%D0%AF%D0%BA%D0%BE%D0%B2%D0%BB%D0%B5%D0%B2%D0%BD%D0%B0_(1912)",
+      "kind": "index",
+      "summary": "",
+      "note": "Общая дата снятия с учёта не доказывает родство"
+    },
+    {
+      "id": "A-0015",
+      "title": "Попонникова Надежда Александровна",
+      "url": "https://ru.openlist.wiki/%D0%9F%D0%BE%D0%BF%D0%BE%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0_%D0%9D%D0%B0%D0%B4%D0%B5%D0%B6%D0%B4%D0%B0_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%BD%D0%B0_(1939)",
+      "kind": "index",
+      "summary": "",
+      "note": "Общая дата снятия с учёта не доказывает родство"
+    },
+    {
+      "id": "A-0016",
+      "title": "Попонников Владимир Александрович",
+      "url": "https://ru.openlist.wiki/%D0%9F%D0%BE%D0%BF%D0%BE%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_(1942)",
+      "kind": "index",
+      "summary": "",
+      "note": "Общая дата снятия с учёта не доказывает родство"
+    },
+    {
+      "id": "A-0017",
+      "title": "Пономарева Полина Степановна, военная карточка",
+      "url": "https://podvignaroda.ru/?#id=38742287&tab=navDetailManAward",
+      "kind": "index",
+      "summary": "",
+      "note": "Карточка сохранена до перезапуска, родитель проверил скан A-0018"
+    },
+    {
+      "id": "A-0018",
+      "title": "Наградной лист Пономаревой Полины Степановны",
+      "url": null,
+      "kind": "image-of-original",
+      "summary": "1918; декабрь 1942; Быковский РВК; начальник дивизионной бани 74 гв сд; лист от 08.05.1945",
+      "note": "Изображение просмотрено, сведения о родителях и Ладоге отсутствуют; не смешивать представление к медали с итоговой наградой"
+    },
+    {
+      "id": "A-0019",
+      "title": "Зыкино, Родная Вятка",
+      "url": "https://rodnaya-vyatka.ru/places/60889",
+      "kind": "local-history-index",
+      "summary": "Верхошижемский район, один из возможных топонимов, тождество семейной деревне не доказано",
+      "note": ""
+    },
+    {
+      "id": "A-0020",
+      "title": "Чернореченская / Старая Черная",
+      "url": "https://putdor.ru/station/chernorechenskaya.html",
+      "kind": "local-history-article",
+      "summary": "Подходит по географии рассказа о Лидии, но происхождение Лидии этим не установлено",
+      "note": ""
+    },
+    {
+      "id": "A-0021",
+      "title": "Василенко Полина Степановна, юбилейная картотека",
+      "url": "https://podvignaroda.ru/?#id=1519031030&tab=navDetailManUbil",
+      "kind": "index",
+      "summary": "1922; орден Отечественной войны II степени; наградной документ 73; запись 1519031030",
+      "note": "Скан первичного документа в открытой карточке не показан, родственные связи не указаны"
+    },
+    {
+      "id": "A-0022",
+      "title": "ОБД Мемориал: Зайцев Емельян Аверьянович, 1909",
+      "url": "https://obd-memorial.ru/html/info.htm?id=54711119",
+      "kind": "index",
+      "summary": "1909, Венгеровский район, 166 сд, рядовой, пропал без вести 16.08.1943",
+      "note": ""
+    },
+    {
+      "id": "A-0023",
+      "title": "Донесение: строка 14, Зайцев Емельян Аверьянович",
+      "url": null,
+      "kind": "image-of-original",
+      "summary": "Рядовой, стрелок, 1909; призван Венгеровским РВК; пропал без вести 16.08.43; отец Зайцев Аверьян",
+      "note": "Оригинал и фрагмент просмотрены родителем; часть адреса неразборчива; копия индекса A-0022 не независимое подтверждение"
+    },
+    {
+      "id": "A-0024",
+      "title": "Подвиг народа: Ерченко Александр Федорович, 1926",
+      "url": "https://podvignaroda.ru/?#id=1511856362&tab=navDetailManUbil",
+      "kind": "index",
+      "summary": "Орден Отечественной войны II степени; документ 86 от 06.04.1985; место рождения с. Соропошичи",
+      "note": "Родитель повторно прочитал браузерную карточку, написание топонима не исправлялось"
+    },
+    {
+      "id": "A-0025",
+      "title": "Ачинский архив: метрические книги за 1891",
+      "url": "https://krasmun.krasarh.ru/archives/achin/case/305837359",
+      "kind": "archive-catalog",
+      "summary": "В деле есть Больше-Улуйская Николаевская церковь; 496 листов",
+      "note": "Карточка дела, не найденная запись о браке; сканы не получены"
+    },
+    {
+      "id": "A-0026",
+      "title": "Ачинский архив: метрические книги за 1896",
+      "url": "https://krasmun.krasarh.ru/archives/achin/case/305874319",
+      "kind": "archive-catalog",
+      "summary": "В деле есть Большеулуйская церковь; 431 лист",
+      "note": "Карточка дела, не найденная запись о рождении; сканы не получены"
+    },
+    {
+      "id": "A-0027",
+      "title": "Дорога памяти: Василенко Полина Степановна",
+      "url": "https://1418museum.ru/heroes/59344970/",
+      "kind": "index",
+      "summary": "1922, Ачинск, орден ОВ II степени; портрет отсутствует",
+      "note": "Независимость от наградного индекса не установлена, консервативно та же цепочка; no-photo.jpg не фотография"
+    },
+    {
+      "id": "A-0028",
+      "title": "Архивная копия lists.memo.ru: Попонниковы",
+      "url": "https://web.archive.org/web/20241205142525/https://lists.memo.ru/d27/f148.htm",
+      "kind": "index",
+      "summary": "Снимок 05.12.2024; те же записи МВД Республики Башкирия; родственные роли отсутствуют",
+      "note": "Копия, не независимое подтверждение. Василий Иванович 1875 того же места/учета не объявлен родственником"
+    },
+    {
+      "id": "A-0029",
+      "title": "Солдаты Победы города Бронницы, книга III, 2020",
+      "url": "https://www.bronnitsy.ru/www/files/soldaty-pobedy_dlya-sajta.pdf",
+      "kind": "regional-book",
+      "summary": "264 страницы, проверен текстовый слой: Василенко, Пономарева, Пономарёва, Полина не найдены",
+      "note": "Не визуальный просмотр всех иллюстраций; тома I и II не получены; отсутствие не доказывает отсутствия человека"
+    },
+    {
+      "id": "A-0030",
+      "title": "Новое семейное уточнение материнских ветвей",
+      "url": null,
+      "kind": "family-testimony",
+      "summary": "Прямое сообщение пользователя, сохранённое дословно",
+      "note": "Не архивная проверка. Роль мест не уточнена, сокращённые годы раскрыты с сохранением оригинала",
+      "text": "Новые сведения про родственников:\n\nБаба Люда:\nЕрченко Людмила Александровна. 1957\nПапа ее: Ерченко Александр Федорович 1926-2015 Черниговская область, остерский район, село сорокошицы. \nМама ее: Зайцева Антонина Емельяновна 1930-1993\nБабушка ее: Зайцева Аграфена Семеновна 13.06.1908-13.01.1991\nДедушка ее: Зайцев Емельян Аверьянович 23.08.1909-04.01.1979 новосибирская обл село татарка\n\nДеда Вова:\nСорокин Владимир Алексеевич 1959\nПапа его : Сорокин Алексей Ефимович 17.08.34 - 2007, Игарка \nМама его: попонникова Зинаида Александровна 20.08.37-2018 Прокопьевск \nПапа деды леши: Ефим Иванович дошел до Берлина\nМама деды леши Мария 1915-86\nБабушка деды Вовы: Анастасия тупикина 1911-60 башкирия \nДедушка деды Вовы : попонников Александр Васильевич 1911-1995 стерлитамак башкирия\n"
+    },
+    {
+      "id": "A-0031",
+      "title": "Сообщение о сестре и семейной структуре сайта",
+      "url": null,
+      "kind": "family-testimony",
+      "summary": "Прямое сообщение пользователя, сохранённое дословно",
+      "note": "Не архивная проверка. Роль мест не уточнена, сокращённые годы раскрыты с сохранением оригинала",
+      "text": "Я ещё у меня есть сестра Шевердова Екатирина Андреевна, 2009г рождения, добавь её тоже"
+    },
+    {
+      "id": "A-0032",
+      "title": "Уточнение фамилии Ефима пользователем",
+      "url": null,
+      "kind": "family-testimony",
+      "summary": "Фамилия Сорокин прямо сообщена пользователем",
+      "note": "Кандидат C-0013 не отождествлён с P-0034. Индекс и сканы одного документа не независимые подтверждения",
+      "text": "# Уточнение пользователя о Ефиме Ивановиче\n\nПользователь: «Мне еще сказали, что сорокин Ефим Иванович, про него можно найти много информации - ты её не нашел. За работу»\n\nЭто прямое уточнение фамилии человека P-0034, ранее указанного как Ефим Иванович, отец Алексея Ефимовича Сорокина. Новый год рождения, даты смерти, жена или награды пользователем не сообщены. Исторические совпадения пока отдельны от семейной личности. На этапе первичного сохранения свидетельства основные реестры ещё не менялись, чтобы не смешать параллельную UI-проверку и исследование. Позднее фамилия внесена в P-0034, а исторические материалы сохранены отдельным C-0013, без объединения личностей.\n"
+    },
+    {
+      "id": "A-0033",
+      "title": "Бессмертный полк: Сорокин Ефим Иванович1912",
+      "url": "https://www.moypolk.ru/soldier/sorokin-efim-ivanovich-2",
+      "kind": "regional-biography",
+      "summary": "Игарка, Изыкчуль Большеулуйского района, Берлин, контузия, смерть1981; публикация, не доказательство семейного родства",
+      "note": "Кандидат C-0013 не отождествлён с P-0034. Индекс и сканы одного документа не независимые подтверждения"
+    },
+    {
+      "id": "A-0034",
+      "title": "Подвиг народа: награждение Ефима Сорокина",
+      "url": "https://podvignaroda.ru/?#id=24857097&tab=navDetailManAward",
+      "kind": "index",
+      "summary": "Год1912, призыв18.06.1942, 511обс40ск; дата13.02.1945 в индексе относится к эпизоду, приказ от01.03.1945",
+      "note": "Кандидат C-0013 не отождествлён с P-0034. Индекс и сканы одного документа не независимые подтверждения"
+    },
+    {
+      "id": "A-0035",
+      "title": "Приказ40 стрелкового корпуса №251/н от01.03.1945",
+      "url": "https://podvignaroda.ru/?#id=24857068&tab=navDetailDocument",
+      "kind": "image-of-original",
+      "summary": "Шапка приказа и именная строка11 прочитаны по сканам24857069 и24857094, медаль «За боевые заслуги»",
+      "note": "Кандидат C-0013 не отождествлён с P-0034. Индекс и сканы одного документа не независимые подтверждения"
+    },
+    {
+      "id": "A-0036",
+      "title": "Наградной лист Сорокина Ефима Ивановича",
+      "url": "https://podvignaroda.ru/?#id=24857097&tab=navDetailManAward",
+      "kind": "image-of-original",
+      "summary": "Эпизод13.02.1945: подвоз материалов связи, линия наведена на30минут раньше срока. Призыв ИгарскимГВК18.06.1942; семья в скане закрыта маской",
+      "note": "Кандидат C-0013 не отождествлён с P-0034. Индекс и сканы одного документа не независимые подтверждения"
+    },
+    {
+      "id": "A-0037",
+      "title": "В.Гапеенко, «Будем жить!»,2022, с.525",
+      "url": "https://gnkk.ru/nkk/data/uploads/2023/03/240kh320_Budem_zhit-1.pdf",
+      "kind": "regional-book",
+      "summary": "Печатнаяс.525/PDFс.527: Изыкчуль Ужурскогорайона;115кабельно-шестоваярота511обс40ск; послефронтаНазаровскийрайон. СемейныймостсМарией/Алексеемнет",
+      "note": "Кандидат C-0013 не отождествлён с P-0034. Индекс и сканы одного документа не независимые подтверждения"
+    },
+    {
+      "id": "A-0038",
+      "title": "Картотека: Ефим Сорокин, медаль1651244",
+      "url": "https://podvignaroda.ru/?#id=1006828713&tab=navDetailManCard",
+      "kind": "index",
+      "summary": "Место буквально «Красноярский край, Ачинский р-н, д.Изыбчуль»; медаль1651244. Скана самой картотеки не предоставлено",
+      "note": "Кандидат C-0013 не отождествлён с P-0034. Индекс и сканы одного документа не независимые подтверждения"
+    },
+    {
+      "id": "A-0039",
+      "title": "Подписанный портрет Ефима Сорокина1912",
+      "url": "https://cdn.moypolk.ru/static/resize/w800/soldiers/photo/2022/08/09/2424f0d5c73ebdc95e1cd5e7aff1f74d.jpg",
+      "kind": "photograph",
+      "summary": "Портрет подписан историческим именем на странице кандидата; не устанавливает семейное родство",
+      "note": "Кандидат C-0013 не отождествлён с P-0034. Индекс и сканы одного документа не независимые подтверждения"
+    },
+    {
+      "id": "HS-P-Q-family",
+      "title": "Пономаревы · family",
+      "url": "https://forum.vgd.ru/1311/96695/",
+      "kind": "family-forum",
+      "summary": "Пономарев (Паламарчук) Евгений Максимович\n1.  Дата и место рождения:  1870 г.,  село Осиевка Каменец-Подольской губернии.\n2.  Дата  и место смерти: около 1953 / 54 г., город Красноярск, похоронен в Красноярске на Николаевском кладбище.\n3. Известные вам места проживания: с. Осиевка Винницкая область;  с. Большой Улуй, с. Беловка, г. Красноярск Красноярский край\n4. Год и место бракосочетания: с. Большой Улуй Ачинского уезда Енисейской губернии, 1891г, в Свято-Никольском храме\n5. Сословие: из священнослужителей.  Отец -- Паламарчук Максим был регентом в церкви с. Осиевка.\n6. Дополнительные сведения, могущие помочь в поиске:\n(ФИО супруга / супруги, известные дети, вероисповедание, название ближайшей приходской церкви, любые семейные предания-легенды и т. д.)\nИзвестно имя и отчество супруги: -- Анна Казимировна Цытко. Происхождением -- предположительно -- из поляков;  дочь ссыльного поляка. Год её рождения 1875.\nДети:\n1)  Пономарев Василий Евгеньевич, 1893 г.р.. По семейным воспоминаниям погиб в Первую мировую войну в 1914 г. Жена: Лунюшка.\n2) Пономарев Степан Евгеньевич, 1896 г.р.,  в годы ВОВ работал на железной дороге г. Красноярск. Жена: Аганя. Был арестован, дальнейшая судьба  не известна..\n3)  Варвара Евгеньевна Пономарева ( в замужестве - Самсонова), 1903 г.р.\n4) Валентина Евгеньевна Пономарева (в замужестве - Русанова) , 1905 г.р.\n5) Надежда Евгеньевна Пономарева (в замужестве - Григорьева) , 1910 г.р. Муж: Григорьев Роман Григорьевич - учитель Троицкой школы  Козульского района.\n6) Пономарев Василий Евгеньевич, 1917 г.р. Участник ВОВ.\nРодной брат:\nПаламарчук Данила Максимович (дата рождения не известна)\nДети Данилы:\nОмельян, Лукаш, Елена, Анна.\nЕвгений Максимович  из Каменец-Подольской в Енисейскую губернию был сослан в 1890 году..  Настоящая фамилия Паламарчук, но все его дети, родившиеся в Енисейской губернии, уже имели другую фамилию -- Пономаревы. По какой причине изменилась фамилия нам не известно. Прибыв в ссылку в Ачинский уезд был в работниках у Боброва.\nВ Большой Улуй приезжал  на жительство  со своей семьей брат Данила из села Осиевка, но прожив полгода вернулся  на Малую Родину -- в родное село (вероятно в Сибири ему не понравилось?)).",
+      "note": "Источник не устанавливает родство всей группы с пользователем"
+    },
+    {
+      "id": "HS-P-Q-marriage",
+      "title": "Пономаревы · marriage",
+      "url": "https://forum.vgd.ru/post/406/29488/p3195915.htm#pp3195915",
+      "kind": "family-forum",
+      "summary": "Добрый день!\nПрошу помощи!!! В метрической записи о бракосочетании моей бабушки написано:\nПоселенческая дочь села Березовка девица Цытко Анна Максимовна 16 лет . Запись от 22 сентября 1891г.\nЕнисейская губерния, Ачинский уезд , Большеулуйская волость.\nВ более поздних документах она значится как Анна Казимировна, в семье ее тоже все называли Анна Казимировна.\nЗначит ее отец Максим-Казимир Цытко был ссыльным. По семейной легенде ссыльный поляк.\nНикак не могу найти никаких сведений о нем. Откуда и когда был сослан в Сибирь.\nПодскажите в каких источниках можно найти информацию . Просмотрела практически все что есть в Красноярском архиве.\nВозможно что-то пропустила. Заранее благодарна.",
+      "note": "Источник не устанавливает родство всей группы с пользователем"
+    },
+    {
+      "id": "HS-P-Q-extract",
+      "title": "Пономаревы · extract",
+      "url": "https://forum.vgd.ru/post/29/117644/p3650400.htm#pp3650400",
+      "kind": "family-forum",
+      "summary": "Добрый день!  В семье прабабушку всегда называли Анна Казимировна из польских ссыльных. Получила выписку из архива -Цытко Анна Максимовна. Что значит фамилия Цытко?",
+      "note": "Источник не устанавливает родство всей группы с пользователем"
+    },
+    {
+      "id": "HS-P-Q-kolbasov",
+      "title": "Пономаревы · kolbasov",
+      "url": "https://forum.vgd.ru/post/1857/34457/p2900816.htm#pp2900816",
+      "kind": "family-forum",
+      "summary": "Здравствуйте, форумчане! Меня зовут Надежда. Ищу родственников своего деда Колбасов Роман Григорьевич 1908г.р. д. Первые Сильяш Октябрьского района.  В Чувашии проживал его родной брат Колбасов Илья Григорьевич. Запись о его награждении нашла в Гос.ист. архиве.\nПредполагаем, что в 1927-28г.г. мой дед Роман со своими родителями Григорием и Татьяной переселились в д. Беловка Ачинского района Красноярского края, где он работал учителем в Троицкой школе.\nБуду очень благодарна за любую информацию.",
+      "note": "Источник не устанавливает родство всей группы с пользователем"
+    },
+    {
+      "id": "HS-P-Q-kolbasov-parents",
+      "title": "Пономаревы · kolbasov-parents",
+      "url": "https://forum.vgd.ru/post/1857/3205/p2900806.htm#pp2900806",
+      "kind": "family-forum",
+      "summary": "Здравствуйте! Подскажите пожалуйста есть ли электронный каталог у Государственного исторического архива Чувашии? Мой дед уроженец д. Первые Сильяш  Октябрьского района. Не могу найти этого населенного пункта. В метрических книгах какой церкви можно найти запись о его рождении?  Колбасов Роман Григорьевич 1908 г.р. Отец- Григорий Колбасов, мать -Татьяна.",
+      "note": "Источник не устанавливает родство всей группы с пользователем"
+    },
+    {
+      "id": "HS-P-Q-roman-repression",
+      "title": "Пономаревы · roman-repression",
+      "url": "https://ru.openlist.wiki/Григорьев_Роман_Григорьевич_(1908)",
+      "kind": "index",
+      "summary": "Дата рождения:\n1908 г.\nМесто рождения:\nЧАССР, Октябрьский р-н, дер. Первые Сильяш\nПол:\nмужчина\nНациональность:\nчуваш\nПрофессия / место работы:\nкрасноармеец\nМесто проживания:\nАчинский р-н, дер. Беловка\nДата ареста:\n19 ноября 1941 г.\nОбвинение:\nВел антисоветскую агитацию.\nОсуждение:\n30 декабря 1942 г.\nОсудивший орган:\nОсобым совещанием при НКВД СССР\nСтатья:\n58 п.10 ч.2 УК РСФСР\nПриговор:\nЗаключить в ИТЛ сроком на 10 лет, считая с 19 ноября 1941 г.\nДата реабилитации:\n16 января 1962 г.\nРеабилитирующий орган:\nОпределением Военного трибунала Сибирского военного округа\nОснования реабилитации:\n\"Постановление Особого совещания при НКВД СССР в отношении Григорьева отменить и уголовное дело на неного дальнейшим производством прекратить на основании ст. 5 п.2 УПК РСФСР - за отсутствием в действиях Григорьева состава преступления.\"\nАрхивное дело:\nРГУ ГИА ЧР, Ф. 2669, оп.3, д.1187-1189\nИсточники данных:\nГос. Архив Чувашской Республики; Книга памяти Чувашской Республики",
+      "note": "Источник не устанавливает родство всей группы с пользователем"
+    },
+    {
+      "id": "HS-P-Q-stepan-repression",
+      "title": "Пономаревы · stepan-repression",
+      "url": "https://ru.openlist.wiki/Пономарев_Степан_Евгеньевич_(1896)",
+      "kind": "index",
+      "summary": "Дата рождения:\n1896 г.\nМесто рождения:\nКрасноярский кр., Большеулуйский р-н, с. Большой Улуй\nПол:\nмужчина\nНациональность:\nрусский\nСоциальное происхождение:\nиз крестьян-бедняков\nОбразование:\nмалограмотный\nПрофессия / место работы:\nжелезнодорожник\nМесто проживания:\nКрасноярский кр., г. Красноярск\nДата ареста:\n31 октября 1941 г.\nОбвинение:\nантисоветская агитация\nОсуждение:\n11 февраля 1942 г.\nОсудивший орган:\nОСО НКВД СССР\nПриговор:\nИТЛ, 7 лет\nДата реабилитации:\n9 июля 1962 г.\nРеабилитирующий орган:\nКрасноярский краевой суд\nКомментарий к аресту:\nРаботал осмотрщиком вагонов на станции.\nАрхивное дело:\nАрхив Красноярского крайсуда; Архив УФСБ КК, дело № П-13393\nИсточники данных:\nБаза данных Красноярска;",
+      "note": "Источник не устанавливает родство всей группы с пользователем"
+    },
+    {
+      "id": "HS-P-Q-optants",
+      "title": "Пономаревы · optants",
+      "url": "https://forum.vgd.ru/10/53548/0.htm",
+      "kind": "family-forum",
+      "summary": "Дело 159\nПо оптации польских граждан: 1) Сухоневич Дмитрия, 2) Собеской Казмиры, 3) Селицкого Александр, 4) Сорвилло-Болушевич Камиллы, 5) Солонюк Елены, 6) Солове Владислава, 7) Старновского Ивана, 8) Синкевича Станислава, 9) Станкус Викентий, 10) Станкус Виталий, 11) Сииридо-Петра Констанции, 12) Самордикович Михаила, 13) Самордикевич Викентия, 14) Самордикевич Ивана, 15) Самордокович Александра, 16) Сорокина Иосифа, 17) Селицкого Викентия, 18) Суббота Ануфрия, 19) Соспора Анны, 20) Суш Овнюия, 21) Серко Франца, 22) Отенень Ивана, 23) Сухор Даниила, 24) Сокович Ивана, 25) Сокович Адоля, 26) Стивко Ивана, 27) Селицкой Павлины, 28) Севицкого Антона, 29) Севицкой Антониды, 30) Адеш Викентия, 31) Сифрекевитьевой Анны, 32) Суховенко Виктора, 33) Суховенко Борислава, 34) Соколоко Андрея, 35) Стычинского Ислера, 36) Стычинсконо Степана, 37) Стычинской Марии, 38) Сухоруковой Феодосии, 39) Сухорукова Григория, 40) Сухорукова Ивана, 41) Сварцевича Ивана, 42) Сороки Феклы, 43) Сухачевской Бенедикты, 44) Семченко Владимира, 45) Сигин Брониславы, 46) Сегень Марии, 47) Цитко Казимира, 48) Цвеклинского Владислава, 49) Цвеклинской Марьяны, 50) Царюк Мирона, 51) Царюк Василия, 52) Царюк Тарас, 53) Царюк Тимофея, 54) Царюк Анны, 55) Циунчика Лупа, 56) Цукермана Давида, 57) Циберт Ивана, 58) Церек Юрия, 59) Хмелевского Франца, 60) Харитончик Доната, 61) Хотиковского Яна, 62) Хобец Николая, 63) Хвесько Филиппа, 64) Хвицевской Екатерины, 65) Хвицевского Михаила, 66) Федорука Люли, 67) Федорук Софии, 68) Хановича Ивана",
+      "note": "Источник не устанавливает родство всей группы с пользователем"
+    },
+    {
+      "id": "HS-P-Q-optants-query",
+      "title": "Пономаревы · optants-query",
+      "url": "https://forum.vgd.ru/post/10/53548/p3219786.htm#pp3219786",
+      "kind": "family-forum",
+      "summary": "Здравствуйте! Нашла в списке дело 159 Цитко Казимир. Моя прабабушка Анна Казимировна в девичестве Цитко поселенческая дочь д. Березовка Ачинск ого уезда. Просмотрела КАКК, ничего не могу найти по этой семье. Полное отчаяние. Как можно узнать поподробнее о Казимир Цитко из данного списка? Заранее благодарна.",
+      "note": "Источник не устанавливает родство всей группы с пользователем"
+    },
+    {
+      "id": "HS-P-Q-optants-reply",
+      "title": "Пономаревы · optants-reply",
+      "url": "https://forum.vgd.ru/post/10/53548/p3226849.htm#pp3226849",
+      "kind": "family-forum",
+      "summary": "17 февраля 2020 17:10\nsityaeva67 написал:\n[q]\n[/q]\nсмотрите в личных",
+      "note": "Источник не устанавливает родство всей группы с пользователем"
+    },
+    {
+      "id": "HS-P-Q-emelyan-loss",
+      "title": "Пономаревы · emelyan-loss",
+      "url": "https://obd-memorial.ru/html/info.htm?id=1132777",
+      "kind": "index",
+      "summary": "Фамилия\nПаламарчук\nИмя\nЕмельян\nОтчество\nДанилович\nДата рождения/Возраст\n__.__.1905\nМесто рождения\nВинницкая обл., Джулинский р-н, с. Красноселка\nДата и место призыва\nДжулинский РВК, Украинская ССР, Винницкая обл., Джулинский р-н\nПоследнее место службы\n255 сд\nВоинское звание\nрядовой\nПричина выбытия\nпропал без вести\nДата выбытия\n19.08.1941\nМесто выбытия\nУкраинская ССР, Днепропетровская обл.\nНазвание источника донесения\nЦАМО\nНомер фонда источника информации\n58\nНомер описи источника информации\n818884\nНомер дела источника информации\n58",
+      "note": "Источник не устанавливает родство всей группы с пользователем"
+    },
+    {
+      "id": "HS-P-Q-card-40291430",
+      "title": "Пономаревы · card-40291430",
+      "url": "https://podvignaroda.ru/?#id=40291430&tab=navDetailManAward",
+      "kind": "index",
+      "summary": "ФИО: Пономарев Василий Евгеньевич; Рождение: __.__.1917; Звание: гв. мл. лейтенант; Призыв: Красноярский ГВК, Красноярский край, г. Красноярск; Часть: 307 гв. сп 110 гв. сд 2 УкрФ; Награда: Орден Красной Звезды",
+      "note": "Источник не устанавливает родство всей группы с пользователем"
+    },
+    {
+      "id": "HS-P-Q-card-1268922586",
+      "title": "Пономаревы · card-1268922586",
+      "url": "https://podvignaroda.ru/?#id=1268922586&tab=navDetailManCard",
+      "kind": "index",
+      "summary": "ФИО: Пономарев Василий Евгеньевич; Рождение: __.__.1917; Место рождения: Красноярский край, Ачинский р-н, с. Большой Улуй; Звание: лейтенант",
+      "note": "Источник не устанавливает родство всей группы с пользователем"
+    },
+    {
+      "id": "HS-P-Q-card-41679027",
+      "title": "Пономаревы · card-41679027",
+      "url": "https://podvignaroda.ru/?#id=41679027&tab=navDetailManAward",
+      "kind": "index",
+      "summary": "ФИО: Паламарчук Емельян Данилович; Рождение: __.__.1905; Звание: гв. мл. сержант; Призыв: Джулинский РВК, Украинская ССР, Винницкая обл., Джулинский р-н; Часть: 232 гв. сп 80 гв. сд 3 УкрФ; Награда: Медаль «За отвагу»",
+      "note": "Источник не устанавливает родство всей группы с пользователем"
+    },
+    {
+      "id": "HS-P-Q-card-1277442026",
+      "title": "Пономаревы · card-1277442026",
+      "url": "https://podvignaroda.ru/?#id=1277442026&tab=navDetailManCard",
+      "kind": "index",
+      "summary": "ФИО: Паламарчук Емельян Данилович; Рождение: __.__.1905; Звание: гв. мл. сержант",
+      "note": "Источник не устанавливает родство всей группы с пользователем"
+    },
+    {
+      "id": "HS-Q-DP-P01",
+      "title": "Попонников Александр Васильевич · Открытый список",
+      "url": "https://ru.openlist.wiki/%D0%9F%D0%BE%D0%BF%D0%BE%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87_(1911)",
+      "kind": "index",
+      "summary": "Дата рождения: 1911 г.\nПол: мужчина\nМесто проживания: Башкирская АССР, Стерлитамакский р-н\nОсуждение: 1931 г.\nПриговор: раскулачивание\nМесто отбывания: Кемеровская обл., Прокопьевск\nКомментарий к аресту: снят с учета 15.06.1950\nИсточники данных: МВД Республики Башкирия",
+      "note": "Источник не устанавливает родство всей группы с пользователем"
+    },
+    {
+      "id": "HS-Q-DP-P02",
+      "title": "Попонников Василий Иванович · Открытый список",
+      "url": "https://ru.openlist.wiki/%D0%9F%D0%BE%D0%BF%D0%BE%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D0%B9_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87_(1875)",
+      "kind": "index",
+      "summary": "Дата рождения: 1875 г.\nПол: мужчина\nМесто проживания: Башкирская АССР, Стерлитамакский р-н\nОсуждение: 1931 г.\nПриговор: раскулачивание\nМесто отбывания: Кемеровская обл., Прокопьевск\nКомментарий к аресту: снят с учета 15.06.1950\nИсточники данных: МВД Республики Башкирия",
+      "note": "Источник не устанавливает родство всей группы с пользователем"
+    },
+    {
+      "id": "HS-Q-DP-P03",
+      "title": "Попонников Владимир Александрович · Открытый список",
+      "url": "https://ru.openlist.wiki/%D0%9F%D0%BE%D0%BF%D0%BE%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_(1942)",
+      "kind": "index",
+      "summary": "Дата рождения: 1942 г.\nПол: мужчина\nМесто проживания: Кемеровская обл., Прокопьевск\nОсуждение: 1942 г.\nПриговор: спецпоселение\nМесто отбывания: Кемеровская обл., Прокопьевск\nКомментарий к аресту: снят с учета 15.06.1950\nИсточники данных: МВД Республики Башкирия",
+      "note": "Источник не устанавливает родство всей группы с пользователем"
+    },
+    {
+      "id": "HS-Q-DP-P04",
+      "title": "Попонников Владимир Васильевич · Открытый список",
+      "url": "https://ru.openlist.wiki/%D0%9F%D0%BE%D0%BF%D0%BE%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87_(1921)",
+      "kind": "index",
+      "summary": "Дата рождения: 1921 г.\nПол: мужчина\nМесто проживания: Башкирская АССР, Стерлитамакский р-н\nОсуждение: 1931 г.\nПриговор: раскулачивание\nМесто отбывания: Кемеровская обл., Прокопьевск\nИсточники данных: МВД Республики Башкирия",
+      "note": "Источник не устанавливает родство всей группы с пользователем"
+    },
+    {
+      "id": "HS-Q-DP-P06",
+      "title": "Попонникова Анастасия Яковлевна · Открытый список",
+      "url": "https://ru.openlist.wiki/%D0%9F%D0%BE%D0%BF%D0%BE%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0_%D0%90%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D1%81%D0%B8%D1%8F_%D0%AF%D0%BA%D0%BE%D0%B2%D0%BB%D0%B5%D0%B2%D0%BD%D0%B0_(1912)",
+      "kind": "index",
+      "summary": "Дата рождения: 1912 г.\nПол: женщина\nМесто проживания: Башкирская АССР, Стерлитамакский р-н\nОсуждение: 1931 г.\nПриговор: раскулачивание\nМесто отбывания: Кемеровская обл., Прокопьевск\nКомментарий к аресту: снята с учета 15.06.1950\nИсточники данных: МВД Республики Башкирия",
+      "note": "Источник не устанавливает родство всей группы с пользователем"
+    },
+    {
+      "id": "HS-Q-DP-P07",
+      "title": "Попонникова Анна Васильевна · Открытый список",
+      "url": "https://ru.openlist.wiki/%D0%9F%D0%BE%D0%BF%D0%BE%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0_%D0%90%D0%BD%D0%BD%D0%B0_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%BD%D0%B0_(1925)",
+      "kind": "index",
+      "summary": "Дата рождения: 1925 г.\nПол: женщина\nМесто проживания: Башкирская АССР, Стерлитамакский р-н\nОсуждение: 1931 г.\nПриговор: раскулачивание\nМесто отбывания: Кемеровская обл., Прокопьевск\nКомментарий к аресту: снята с учета 17.06.1942\nИсточники данных: МВД Республики Башкирия",
+      "note": "Источник не устанавливает родство всей группы с пользователем"
+    },
+    {
+      "id": "HS-Q-DP-P08",
+      "title": "Попонникова Евдокия Васильевна · Открытый список",
+      "url": "https://ru.openlist.wiki/%D0%9F%D0%BE%D0%BF%D0%BE%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0_%D0%95%D0%B2%D0%B4%D0%BE%D0%BA%D0%B8%D1%8F_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%BD%D0%B0_(1915)",
+      "kind": "index",
+      "summary": "Дата рождения: 1915 г.\nПол: женщина\nМесто проживания: Башкирская АССР, Стерлитамакский р-н\nОсуждение: 1931 г.\nПриговор: раскулачивание\nМесто отбывания: Кемеровская обл., Прокопьевск\nИсточники данных: МВД Республики Башкирия",
+      "note": "Источник не устанавливает родство всей группы с пользователем"
+    },
+    {
+      "id": "HS-Q-DP-P09",
+      "title": "Попонникова Елена Игнатьевна · Открытый список",
+      "url": "https://ru.openlist.wiki/%D0%9F%D0%BE%D0%BF%D0%BE%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0_%D0%95%D0%BB%D0%B5%D0%BD%D0%B0_%D0%98%D0%B3%D0%BD%D0%B0%D1%82%D1%8C%D0%B5%D0%B2%D0%BD%D0%B0_(1875)",
+      "kind": "index",
+      "summary": "Дата рождения: 1875 г.\nПол: женщина\nМесто проживания: Башкирская АССР, Стерлитамакский р-н\nОсуждение: 1931 г.\nПриговор: раскулачивание\nМесто отбывания: Кемеровская обл., Прокопьевск\nИсточники данных: МВД Республики Башкирия",
+      "note": "Источник не устанавливает родство всей группы с пользователем"
+    },
+    {
+      "id": "HS-Q-DP-P10",
+      "title": "Попонникова Зинаида Александровна · Открытый список",
+      "url": "https://ru.openlist.wiki/%D0%9F%D0%BE%D0%BF%D0%BE%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0_%D0%97%D0%B8%D0%BD%D0%B0%D0%B8%D0%B4%D0%B0_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%BD%D0%B0_(1937)",
+      "kind": "index",
+      "summary": "Дата рождения: 1937 г.\nПол: женщина\nМесто проживания: Кемеровская обл., Прокопьевск\nОсуждение: 1937 г.\nПриговор: спецпоселение\nМесто отбывания: Кемеровская обл., Прокопьевск\nКомментарий к аресту: снята с учета 15.06.1950\nИсточники данных: МВД Республики Башкирия",
+      "note": "Источник не устанавливает родство всей группы с пользователем"
+    },
+    {
+      "id": "HS-Q-DP-P11",
+      "title": "Попонникова Мария Васильевна · Открытый список",
+      "url": "https://ru.openlist.wiki/%D0%9F%D0%BE%D0%BF%D0%BE%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%BD%D0%B0_(1924)",
+      "kind": "index",
+      "summary": "Дата рождения: 1924 г.\nПол: женщина\nМесто проживания: Башкирская АССР, Стерлитамакский р-н\nОсуждение: 1931 г.\nПриговор: раскулачивание\nМесто отбывания: Кемеровская обл., Прокопьевск\nКомментарий к аресту: снята с учета 31.10.1940\nИсточники данных: МВД Республики Башкирия",
+      "note": "Источник не устанавливает родство всей группы с пользователем"
+    },
+    {
+      "id": "HS-Q-DP-P12",
+      "title": "Попонникова Надежда Александровна · Открытый список",
+      "url": "https://ru.openlist.wiki/%D0%9F%D0%BE%D0%BF%D0%BE%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0_%D0%9D%D0%B0%D0%B4%D0%B5%D0%B6%D0%B4%D0%B0_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%BD%D0%B0_(1939)",
+      "kind": "index",
+      "summary": "Дата рождения: 1939 г.\nПол: женщина\nМесто проживания: Кемеровская обл., Прокопьевск\nОсуждение: 1939 г.\nПриговор: спецпоселение\nМесто отбывания: Кемеровская обл., Прокопьевск\nКомментарий к аресту: снята с учета 15.06.1950\nИсточники данных: МВД Республики Башкирия",
+      "note": "Источник не устанавливает родство всей группы с пользователем"
+    },
+    {
+      "id": "HS-Z-AFANAS",
+      "title": "Зыкин Афанасий Алексеевич · донесение",
+      "url": "https://obd-memorial.ru/html/info.htm?id=57529601",
+      "kind": "index",
+      "summary": "1910, д. Зыкины, Кировский район; в донесении прямо названа жена Мария Михайловна",
+      "note": "Источник не устанавливает родство всей группы с пользователем"
+    },
+    {
+      "id": "HS-M-PETR",
+      "title": "Ерченко Петр Федорович · картотека",
+      "url": "https://podvignaroda.ru/?#id=1268450505&tab=navDetailManCard",
+      "kind": "index",
+      "summary": "1919, с. Сорокошочи Остерского района; две награды",
+      "note": "Источник не устанавливает родство всей группы с пользователем"
+    },
+    {
+      "id": "HS-M-ZBOOK",
+      "title": "Емельян Зайцев · Книга памяти",
+      "url": "https://obd-memorial.ru/html/info.htm?id=405047490",
+      "kind": "index",
+      "summary": "Кузьминка, призыв11.10.1942, 423сп166сд, пропал без вести16.08.1943",
+      "note": "Источник не устанавливает родство всей группы с пользователем"
+    },
+    {
+      "id": "HS-M-TIM19",
+      "title": "Тимофей Зайцев1919 · донесение",
+      "url": "https://obd-memorial.ru/html/info.htm?id=50716186",
+      "kind": "index",
+      "summary": "В донесении отец Зайцев Аверьян Кузьмич",
+      "note": "Источник не устанавливает родство всей группы с пользователем"
+    },
+    {
+      "id": "HS-M-TIM24",
+      "title": "Тимофей Зайцев1924 · карточка пленного",
+      "url": "https://obd-memorial.ru/html/info.htm?id=300108809",
+      "kind": "index",
+      "summary": "10.06.1924, Б.-Сюган; отец Аверьян, смерть22.12.1942",
+      "note": "Источник не устанавливает родство всей группы с пользователем"
+    },
+    {
+      "id": "HS-M-NIK",
+      "title": "Николай Зайцев1926 · картотека",
+      "url": "https://podvignaroda.ru/?#id=1504436022&tab=navDetailManCard",
+      "kind": "index",
+      "summary": "1926, Б.-Сюган, Венгеровский район",
+      "note": "Источник не устанавливает родство всей группы с пользователем"
+    },
+    {
+      "id": "USER-RULE-FAMILY-PARENTS",
+      "kind": "user-display-rule",
+      "title": "Уточнение пользователя: пара в семейной группе является родителями всех детей",
+      "summary": "Екатерина2009 показана дочерью Елены и Андрея. Правило применяется к составу семейных групп, не доказывает исторические гипотезы и не объединяет записи",
+      "note": "Производная модель показа; исходные свидетельства и реестр сохранены без изменений",
+      "url": ""
+    }
+  ],
+  "nationalities": {
+    "C-0001": {
+      "value": "русский",
+      "basis": "index",
+      "label": "Открытый список, по красноярской базе",
+      "url": "https://ru.openlist.wiki/Пономарев_Степан_Евгеньевич_%281896%29",
+      "quote": "Национальность: русский",
+      "local_path": "findings/verified/stepan-openlist.txt",
+      "note": "Относится к архивному Степану1896, не автоматически к семейному Степану",
+      "source_sha256": "e49aa3883354759485789e11b8f3c2df8642b04a932e815a2a09c8126517499d"
+    },
+    "H-P-DR02": {
+      "value": "чуваш",
+      "basis": "index",
+      "label": "Открытый список, архив и Книга памяти Чувашии",
+      "url": "https://ru.openlist.wiki/Григорьев_Роман_Григорьевич_%281908%29",
+      "quote": "Национальность: чуваш",
+      "local_path": "findings/verified/deep-roman-index.txt",
+      "note": "Не переносится на Романа Колбасова до проверки тождества и не наследуется другими узлами",
+      "source_sha256": "d14d7014cda6c08d74ecf166a0b0f9686f024e6b37c4ae8061d68739a20ab32a"
+    },
+    "H-P-DR01": {
+      "value": "русский",
+      "basis": "document",
+      "label": "Наградной лист Василия Пономарева1917, графа5",
+      "url": "https://podvignaroda.ru/?#id=40291430&tab=navDetailManAward",
+      "quote": "Национальность: русский",
+      "local_path": "findings/deep-ponomarev/scans/vasily-award.jpg",
+      "note": "Прочитано по изображению наградного листа, не выведено из места рождения",
+      "source_sha256": "9e76d85ea359de7b2d9c771c10239143d3077384a3ae67e29e4362880e000732"
+    },
+    "H-M-PETR": {
+      "value": "украинец",
+      "basis": "document",
+      "label": "Наградной лист Петра Ерченко1919, графа5",
+      "url": "https://podvignaroda.ru/?#id=39688932&tab=navDetailManAward",
+      "quote": "Национальность: украинец",
+      "local_path": "findings/deep-maternal/scans/podvig-39688945.jpg",
+      "note": "Национальность Петра не переносится на возможного родственника Александра",
+      "source_sha256": "9e45e184253c9aaf8e6ae1b2d5fb25ba3822981383f9b1dbcc5e51a3f967de56"
+    },
+    "H-P-DR03": {
+      "value": "украинец",
+      "basis": "document",
+      "label": "Наградной документ Емельяна Паламарчука1905, пункт11",
+      "url": "https://podvignaroda.ru/?#id=41679027&tab=navDetailManAward",
+      "quote": "1905 года рождения, украинец, беспартийный",
+      "local_path": "findings/deep-ponomarev/scans/emelyan-award.jpg",
+      "note": "Относится к наградной записи, не автоматически к Омельяну из семейного рассказа",
+      "source_sha256": "61092ef5c5d52582276e44d6d2373f37f46de3900f2074c4322a506fe639cfaa"
+    },
+    "C-0003": {
+      "value": "русская",
+      "basis": "document",
+      "label": "Наградной лист Полины Пономаревой1918, графа5",
+      "url": "https://podvignaroda.ru/?#id=38742287&tab=navDetailManAward",
+      "quote": "Национальность Русская",
+      "local_path": "findings/polina/scans/podvig-38742287-award.jpg",
+      "note": "Не переносится на Полину Василенко1922 или семейную Полину",
+      "source_sha256": "1298635d9ae350af5569ec8135601d79d5d6c59c31d6e0f1c17e17e3e0c37aa7"
+    },
+    "C-0009": {
+      "value": null,
+      "origin_story": "Польское происхождение: семейная версия, не подтверждено документом",
+      "basis": "family-story",
+      "label": "Семейная публикация на ВГД",
+      "url": "https://forum.vgd.ru/1311/96695/",
+      "quote": "Происхождением -- предположительно -- из поляков; дочь ссыльного поляка",
+      "local_path": "findings/verified/stepan-vgd.txt",
+      "note": "Не присвоена национальность «полька»; это отдельная версия о происхождении",
+      "source_sha256": "9e3af6a537d62f639cfde3bb430c562be364c1c46342aed56a9d183ea3dfcdd9"
+    }
+  },
+  "relationships": [
+    {
+      "relationship_id": "R-0001",
+      "person_a_id": "P-0002",
+      "relationship_type": "parent-of",
+      "person_b_id": "P-0001",
+      "supporting_artifact_ids": "A-USER-INITIAL",
+      "status": "hypothesis",
+      "confidence": "moderate",
+      "rationale": "Со слов пользователя, документальная связь не проверена"
+    },
+    {
+      "relationship_id": "R-0002",
+      "person_a_id": "P-0003",
+      "relationship_type": "parent-of",
+      "person_b_id": "P-0001",
+      "supporting_artifact_ids": "A-USER-INITIAL",
+      "status": "hypothesis",
+      "confidence": "moderate",
+      "rationale": "Со слов пользователя, документальная связь не проверена"
+    },
+    {
+      "relationship_id": "R-0003",
+      "person_a_id": "P-0004",
+      "relationship_type": "parent-of",
+      "person_b_id": "P-0002",
+      "supporting_artifact_ids": "A-USER-INITIAL",
+      "status": "hypothesis",
+      "confidence": "moderate",
+      "rationale": "Со слов пользователя, документальная связь не проверена"
+    },
+    {
+      "relationship_id": "R-0004",
+      "person_a_id": "P-0005",
+      "relationship_type": "parent-of",
+      "person_b_id": "P-0002",
+      "supporting_artifact_ids": "A-USER-INITIAL",
+      "status": "hypothesis",
+      "confidence": "moderate",
+      "rationale": "Со слов пользователя, документальная связь не проверена"
+    },
+    {
+      "relationship_id": "R-0005",
+      "person_a_id": "P-0006",
+      "relationship_type": "parent-of",
+      "person_b_id": "P-0003",
+      "supporting_artifact_ids": "A-USER-INITIAL",
+      "status": "hypothesis",
+      "confidence": "moderate",
+      "rationale": "Со слов пользователя, документальная связь не проверена"
+    },
+    {
+      "relationship_id": "R-0006",
+      "person_a_id": "P-0007",
+      "relationship_type": "parent-of",
+      "person_b_id": "P-0003",
+      "supporting_artifact_ids": "A-USER-INITIAL",
+      "status": "hypothesis",
+      "confidence": "moderate",
+      "rationale": "Со слов пользователя, документальная связь не проверена"
+    },
+    {
+      "relationship_id": "R-0007",
+      "person_a_id": "P-0008",
+      "relationship_type": "parent-of",
+      "person_b_id": "P-0004",
+      "supporting_artifact_ids": "A-0008",
+      "status": "hypothesis",
+      "confidence": "moderate",
+      "rationale": "Со слов пользователя, документальная связь не проверена"
+    },
+    {
+      "relationship_id": "R-0008",
+      "person_a_id": "P-0009",
+      "relationship_type": "parent-of",
+      "person_b_id": "P-0004",
+      "supporting_artifact_ids": "A-0008",
+      "status": "hypothesis",
+      "confidence": "moderate",
+      "rationale": "Со слов пользователя, документальная связь не проверена"
+    },
+    {
+      "relationship_id": "R-0009",
+      "person_a_id": "P-0012",
+      "relationship_type": "parent-of",
+      "person_b_id": "P-0005",
+      "supporting_artifact_ids": "A-0008",
+      "status": "hypothesis",
+      "confidence": "moderate",
+      "rationale": "Со слов пользователя, документальная связь не проверена"
+    },
+    {
+      "relationship_id": "R-0010",
+      "person_a_id": "P-0013",
+      "relationship_type": "parent-of",
+      "person_b_id": "P-0005",
+      "supporting_artifact_ids": "A-0008",
+      "status": "hypothesis",
+      "confidence": "moderate",
+      "rationale": "Со слов пользователя, документальная связь не проверена"
+    },
+    {
+      "relationship_id": "R-0011",
+      "person_a_id": "P-0016",
+      "relationship_type": "parent-of",
+      "person_b_id": "P-0014",
+      "supporting_artifact_ids": "A-0007",
+      "status": "hypothesis",
+      "confidence": "moderate",
+      "rationale": "Со слов пользователя, документальная связь не проверена"
+    },
+    {
+      "relationship_id": "R-0012",
+      "person_a_id": "P-0017",
+      "relationship_type": "parent-of",
+      "person_b_id": "P-0014",
+      "supporting_artifact_ids": "A-0007",
+      "status": "hypothesis",
+      "confidence": "moderate",
+      "rationale": "Со слов пользователя, документальная связь не проверена"
+    },
+    {
+      "relationship_id": "R-0013",
+      "person_a_id": "P-0020",
+      "relationship_type": "parent-of",
+      "person_b_id": "P-0021",
+      "supporting_artifact_ids": "A-0007",
+      "status": "hypothesis",
+      "confidence": "moderate",
+      "rationale": "Со слов пользователя, документальная связь не проверена"
+    },
+    {
+      "relationship_id": "R-0014",
+      "person_a_id": "P-0020",
+      "relationship_type": "parent-of",
+      "person_b_id": "P-0022",
+      "supporting_artifact_ids": "A-0007",
+      "status": "hypothesis",
+      "confidence": "moderate",
+      "rationale": "Со слов пользователя, документальная связь не проверена"
+    },
+    {
+      "relationship_id": "R-0015",
+      "person_a_id": "P-0024",
+      "relationship_type": "parent-of",
+      "person_b_id": "P-0007",
+      "supporting_artifact_ids": "A-0007",
+      "status": "hypothesis",
+      "confidence": "moderate",
+      "rationale": "Со слов пользователя, документальная связь не проверена"
+    },
+    {
+      "relationship_id": "R-0016",
+      "person_a_id": "P-0026",
+      "relationship_type": "parent-of",
+      "person_b_id": "P-0025",
+      "supporting_artifact_ids": "A-0007",
+      "status": "hypothesis",
+      "confidence": "moderate",
+      "rationale": "Со слов пользователя, документальная связь не проверена"
+    },
+    {
+      "relationship_id": "R-0017",
+      "person_a_id": "P-0026",
+      "relationship_type": "parent-of",
+      "person_b_id": "P-0027",
+      "supporting_artifact_ids": "A-0007",
+      "status": "hypothesis",
+      "confidence": "moderate",
+      "rationale": "Со слов пользователя, документальная связь не проверена"
+    },
+    {
+      "relationship_id": "R-0018",
+      "person_a_id": "P-0026",
+      "relationship_type": "parent-of",
+      "person_b_id": "P-0028",
+      "supporting_artifact_ids": "A-0007",
+      "status": "hypothesis",
+      "confidence": "moderate",
+      "rationale": "Со слов пользователя, документальная связь не проверена"
+    },
+    {
+      "relationship_id": "R-0019",
+      "person_a_id": "P-0026",
+      "relationship_type": "parent-of",
+      "person_b_id": "P-0029",
+      "supporting_artifact_ids": "A-0007",
+      "status": "hypothesis",
+      "confidence": "moderate",
+      "rationale": "Со слов пользователя, документальная связь не проверена"
+    },
+    {
+      "relationship_id": "R-0020",
+      "person_a_id": "P-0010",
+      "relationship_type": "grandparent-of",
+      "person_b_id": "P-0004",
+      "supporting_artifact_ids": "A-0008",
+      "status": "hypothesis",
+      "confidence": "moderate",
+      "rationale": "Со слов пользователя, документальная связь не проверена"
+    },
+    {
+      "relationship_id": "R-0021",
+      "person_a_id": "P-0011",
+      "relationship_type": "grandparent-of",
+      "person_b_id": "P-0004",
+      "supporting_artifact_ids": "A-0008",
+      "status": "hypothesis",
+      "confidence": "moderate",
+      "rationale": "Со слов пользователя, документальная связь не проверена"
+    },
+    {
+      "relationship_id": "R-0022",
+      "person_a_id": "P-0010",
+      "relationship_type": "parent-of",
+      "person_b_id": "P-0009",
+      "supporting_artifact_ids": "A-0008",
+      "status": "hypothesis",
+      "confidence": "low",
+      "rationale": "Исследовательская гипотеза по фамилии, отчеству и названной степени родства"
+    },
+    {
+      "relationship_id": "R-0023",
+      "person_a_id": "P-0011",
+      "relationship_type": "parent-of",
+      "person_b_id": "P-0009",
+      "supporting_artifact_ids": "A-0008",
+      "status": "hypothesis",
+      "confidence": "low",
+      "rationale": "Исследовательская гипотеза по фамилии, отчеству и названной степени родства"
+    },
+    {
+      "relationship_id": "R-0024",
+      "person_a_id": "P-0014",
+      "relationship_type": "parent-of",
+      "person_b_id": "P-0006",
+      "supporting_artifact_ids": "A-0007",
+      "status": "hypothesis",
+      "confidence": "low",
+      "rationale": "Контекст семейного рассказа, прямая связь требует подтверждения"
+    },
+    {
+      "relationship_id": "R-0025",
+      "person_a_id": "P-0015",
+      "relationship_type": "parent-of",
+      "person_b_id": "P-0006",
+      "supporting_artifact_ids": "A-0007",
+      "status": "hypothesis",
+      "confidence": "low",
+      "rationale": "Контекст семейного рассказа, прямая связь требует подтверждения"
+    },
+    {
+      "relationship_id": "R-0026",
+      "person_a_id": "P-0025",
+      "relationship_type": "parent-of",
+      "person_b_id": "P-0007",
+      "supporting_artifact_ids": "A-0007",
+      "status": "hypothesis",
+      "confidence": "low",
+      "rationale": "Контекст семейного рассказа, прямая связь требует подтверждения"
+    },
+    {
+      "relationship_id": "R-0027",
+      "person_a_id": "P-0014",
+      "relationship_type": "spouse-of",
+      "person_b_id": "P-0015",
+      "supporting_artifact_ids": "A-0007",
+      "status": "hypothesis",
+      "confidence": "moderate",
+      "rationale": "Со слов пользователя, документальная связь не проверена"
+    },
+    {
+      "relationship_id": "R-0028",
+      "person_a_id": "P-0018",
+      "relationship_type": "spouse-of",
+      "person_b_id": "P-0019",
+      "supporting_artifact_ids": "A-0007",
+      "status": "hypothesis",
+      "confidence": "moderate",
+      "rationale": "Со слов пользователя, документальная связь не проверена"
+    },
+    {
+      "relationship_id": "R-0029",
+      "person_a_id": "P-0024",
+      "relationship_type": "spouse-of",
+      "person_b_id": "P-0025",
+      "supporting_artifact_ids": "A-0007",
+      "status": "hypothesis",
+      "confidence": "moderate",
+      "rationale": "Со слов пользователя, документальная связь не проверена"
+    },
+    {
+      "relationship_id": "R-0030",
+      "person_a_id": "P-0014",
+      "relationship_type": "sibling-of",
+      "person_b_id": "P-0018",
+      "supporting_artifact_ids": "A-0007",
+      "status": "hypothesis",
+      "confidence": "moderate",
+      "rationale": "Со слов пользователя, документальная связь не проверена"
+    },
+    {
+      "relationship_id": "R-0031",
+      "person_a_id": "P-0014",
+      "relationship_type": "sibling-of",
+      "person_b_id": "P-0020",
+      "supporting_artifact_ids": "A-0007",
+      "status": "hypothesis",
+      "confidence": "moderate",
+      "rationale": "Со слов пользователя, документальная связь не проверена"
+    },
+    {
+      "relationship_id": "R-0032",
+      "person_a_id": "P-0024",
+      "relationship_type": "sibling-of",
+      "person_b_id": "P-0030",
+      "supporting_artifact_ids": "A-0007",
+      "status": "hypothesis",
+      "confidence": "moderate",
+      "rationale": "Со слов пользователя, документальная связь не проверена"
+    },
+    {
+      "relationship_id": "R-0033",
+      "person_a_id": "P-0006",
+      "relationship_type": "sibling-of",
+      "person_b_id": "P-0031",
+      "supporting_artifact_ids": "A-USER-INITIAL",
+      "status": "hypothesis",
+      "confidence": "moderate",
+      "rationale": "Со слов пользователя, документальная связь не проверена"
+    },
+    {
+      "relationship_id": "R-0034",
+      "person_a_id": "P-0006",
+      "relationship_type": "sibling-of",
+      "person_b_id": "P-0032",
+      "supporting_artifact_ids": "A-USER-INITIAL",
+      "status": "hypothesis",
+      "confidence": "moderate",
+      "rationale": "Со слов пользователя, документальная связь не проверена"
+    },
+    {
+      "relationship_id": "R-0035",
+      "person_a_id": "P-0018",
+      "relationship_type": "reported-family-link",
+      "person_b_id": "P-0023",
+      "supporting_artifact_ids": "A-0007",
+      "status": "hypothesis",
+      "confidence": "low",
+      "rationale": "Частные сведения о связи см. A-0007, современный розыск не выполняется"
+    },
+    {
+      "relationship_id": "R-0036",
+      "person_a_id": "P-0019",
+      "relationship_type": "reported-family-link",
+      "person_b_id": "P-0023",
+      "supporting_artifact_ids": "A-0007",
+      "status": "hypothesis",
+      "confidence": "low",
+      "rationale": "Частные сведения о связи см. A-0007, современный розыск не выполняется"
+    },
+    {
+      "relationship_id": "R-0037",
+      "person_a_id": "C-0008",
+      "relationship_type": "parent-of",
+      "person_b_id": "C-0001",
+      "supporting_artifact_ids": "A-0011",
+      "status": "hypothesis",
+      "confidence": "low",
+      "rationale": "Только пользовательское семейное исследование на форуме, без первичных документов"
+    },
+    {
+      "relationship_id": "R-0038",
+      "person_a_id": "C-0009",
+      "relationship_type": "parent-of",
+      "person_b_id": "C-0001",
+      "supporting_artifact_ids": "A-0011",
+      "status": "hypothesis",
+      "confidence": "low",
+      "rationale": "Только пользовательское семейное исследование на форуме, без первичных документов"
+    },
+    {
+      "relationship_id": "R-0039",
+      "person_a_id": "P-0001",
+      "relationship_type": "sibling-of",
+      "person_b_id": "P-0033",
+      "supporting_artifact_ids": "A-0031",
+      "status": "reported-family",
+      "confidence": "moderate",
+      "rationale": "Прямо названа сестрой пользователя; общие родители отдельно не установлены"
+    },
+    {
+      "relationship_id": "R-0040",
+      "person_a_id": "P-0034",
+      "relationship_type": "parent-of",
+      "person_b_id": "P-0012",
+      "supporting_artifact_ids": "A-0030",
+      "status": "reported-family",
+      "confidence": "moderate",
+      "rationale": "Прямо назван отцом Алексея в сообщении семьи"
+    },
+    {
+      "relationship_id": "R-0041",
+      "person_a_id": "P-0035",
+      "relationship_type": "parent-of",
+      "person_b_id": "P-0012",
+      "supporting_artifact_ids": "A-0030",
+      "status": "reported-family",
+      "confidence": "moderate",
+      "rationale": "Прямо названа матерью Алексея в сообщении семьи"
+    },
+    {
+      "relationship_id": "R-0042",
+      "person_a_id": "P-0036",
+      "relationship_type": "parent-of",
+      "person_b_id": "P-0013",
+      "supporting_artifact_ids": "A-0030",
+      "status": "hypothesis",
+      "confidence": "low",
+      "rationale": "Родительство по контексту: назван дедушкой Владимира Сорокина после сведений о его матери Зинаиде"
+    },
+    {
+      "relationship_id": "R-0043",
+      "person_a_id": "P-0037",
+      "relationship_type": "parent-of",
+      "person_b_id": "P-0013",
+      "supporting_artifact_ids": "A-0030",
+      "status": "hypothesis",
+      "confidence": "low",
+      "rationale": "Родительство по контексту: названа бабушкой Владимира Сорокина рядом с Александром Попонниковым"
+    },
+    {
+      "relationship_id": "R-0044",
+      "person_a_id": "P-0036",
+      "relationship_type": "grandparent-of",
+      "person_b_id": "P-0005",
+      "supporting_artifact_ids": "A-0030",
+      "status": "reported-family",
+      "confidence": "moderate",
+      "rationale": "Прямо назван дедушкой Владимира Сорокина"
+    },
+    {
+      "relationship_id": "R-0045",
+      "person_a_id": "P-0037",
+      "relationship_type": "grandparent-of",
+      "person_b_id": "P-0005",
+      "supporting_artifact_ids": "A-0030",
+      "status": "reported-family",
+      "confidence": "moderate",
+      "rationale": "Прямо названа бабушкой Владимира Сорокина"
+    },
+    {
+      "relationship_id": "R-EFIM-IDENTITY-1912",
+      "person_a_id": "C-0013",
+      "relationship_type": "possible-identity",
+      "person_b_id": "P-0034",
+      "supporting_artifact_ids": "A-0033;A-0034;A-0035;A-0036;A-0037;A-0038;A-0039",
+      "status": "hypothesis",
+      "confidence": "strong-candidate-not-proven",
+      "rationale": "Совпали ФИО, Игарка и рассказ о Берлине; призыв и награда подтверждены оригиналами исторического кандидата. Не найден документ, связывающий его с Марией и сыном Алексеем1934"
+    },
+    {
+      "relationship_id": "HR-1",
+      "person_a_id": "H-P-DP01",
+      "relationship_type": "parent-of",
+      "person_b_id": "C-0008",
+      "rationale": "семейное свидетельство автора ВГД; не первично подтвержденное родство",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": "HS-P-Q-family"
+    },
+    {
+      "relationship_id": "HR-2",
+      "person_a_id": "C-0008",
+      "relationship_type": "sibling-of",
+      "person_b_id": "H-P-DP05",
+      "rationale": "семейное свидетельство автора ВГД; не первично подтвержденное родство",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": "HS-P-Q-family"
+    },
+    {
+      "relationship_id": "HR-3",
+      "person_a_id": "H-P-DP01",
+      "relationship_type": "parent-of",
+      "person_b_id": "H-P-DP05",
+      "rationale": "вывод из родного братства и отчества; отдельного прямого утверждения об отце Данилы нет",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": "HS-P-Q-family"
+    },
+    {
+      "relationship_id": "HR-4",
+      "person_a_id": "C-0008",
+      "relationship_type": "spouse-of",
+      "person_b_id": "C-0009",
+      "rationale": "семейное свидетельство автора ВГД; не первично подтвержденное родство",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": "HS-P-Q-family"
+    },
+    {
+      "relationship_id": "HR-5",
+      "person_a_id": "H-P-DP04",
+      "relationship_type": "parent-of",
+      "person_b_id": "C-0009",
+      "rationale": "отец существует по рассказу; имя/отчество конфликтует",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": "HS-P-Q-family;HS-P-Q-marriage"
+    },
+    {
+      "relationship_id": "HR-6",
+      "person_a_id": "C-0008",
+      "relationship_type": "parent-of",
+      "person_b_id": "H-P-DP06",
+      "rationale": "семейное свидетельство автора ВГД; не первично подтвержденное родство",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": "HS-P-Q-family"
+    },
+    {
+      "relationship_id": "HR-7",
+      "person_a_id": "C-0009",
+      "relationship_type": "parent-of",
+      "person_b_id": "H-P-DP06",
+      "rationale": "дети перечислены после имени супруги; контекстуальная атрибуция матери одного семейного рассказа",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": "HS-P-Q-family"
+    },
+    {
+      "relationship_id": "HR-8",
+      "person_a_id": "C-0008",
+      "relationship_type": "parent-of",
+      "person_b_id": "H-P-DP08",
+      "rationale": "семейное свидетельство автора ВГД; не первично подтвержденное родство",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": "HS-P-Q-family"
+    },
+    {
+      "relationship_id": "HR-9",
+      "person_a_id": "C-0009",
+      "relationship_type": "parent-of",
+      "person_b_id": "H-P-DP08",
+      "rationale": "дети перечислены после имени супруги; контекстуальная атрибуция матери одного семейного рассказа",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": "HS-P-Q-family"
+    },
+    {
+      "relationship_id": "HR-10",
+      "person_a_id": "C-0008",
+      "relationship_type": "parent-of",
+      "person_b_id": "H-P-DP10",
+      "rationale": "семейное свидетельство автора ВГД; не первично подтвержденное родство",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": "HS-P-Q-family"
+    },
+    {
+      "relationship_id": "HR-11",
+      "person_a_id": "C-0009",
+      "relationship_type": "parent-of",
+      "person_b_id": "H-P-DP10",
+      "rationale": "дети перечислены после имени супруги; контекстуальная атрибуция матери одного семейного рассказа",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": "HS-P-Q-family"
+    },
+    {
+      "relationship_id": "HR-12",
+      "person_a_id": "C-0008",
+      "relationship_type": "parent-of",
+      "person_b_id": "H-P-DP11",
+      "rationale": "семейное свидетельство автора ВГД; не первично подтвержденное родство",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": "HS-P-Q-family"
+    },
+    {
+      "relationship_id": "HR-13",
+      "person_a_id": "C-0009",
+      "relationship_type": "parent-of",
+      "person_b_id": "H-P-DP11",
+      "rationale": "дети перечислены после имени супруги; контекстуальная атрибуция матери одного семейного рассказа",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": "HS-P-Q-family"
+    },
+    {
+      "relationship_id": "HR-14",
+      "person_a_id": "C-0008",
+      "relationship_type": "parent-of",
+      "person_b_id": "H-P-DP13",
+      "rationale": "семейное свидетельство автора ВГД; не первично подтвержденное родство",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": "HS-P-Q-family"
+    },
+    {
+      "relationship_id": "HR-15",
+      "person_a_id": "C-0009",
+      "relationship_type": "parent-of",
+      "person_b_id": "H-P-DP13",
+      "rationale": "дети перечислены после имени супруги; контекстуальная атрибуция матери одного семейного рассказа",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": "HS-P-Q-family"
+    },
+    {
+      "relationship_id": "HR-16",
+      "person_a_id": "C-0008",
+      "relationship_type": "parent-of",
+      "person_b_id": "H-P-DP12",
+      "rationale": "семейное свидетельство автора ВГД; не первично подтвержденное родство",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": "HS-P-Q-family"
+    },
+    {
+      "relationship_id": "HR-17",
+      "person_a_id": "C-0009",
+      "relationship_type": "parent-of",
+      "person_b_id": "H-P-DP12",
+      "rationale": "дети перечислены после имени супруги; контекстуальная атрибуция матери одного семейного рассказа",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": "HS-P-Q-family"
+    },
+    {
+      "relationship_id": "HR-18",
+      "person_a_id": "H-P-DP06",
+      "relationship_type": "spouse-of",
+      "person_b_id": "H-P-DP07",
+      "rationale": "семейное свидетельство автора ВГД; не первично подтвержденное родство",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": "HS-P-Q-family"
+    },
+    {
+      "relationship_id": "HR-19",
+      "person_a_id": "H-P-DP08",
+      "relationship_type": "spouse-of",
+      "person_b_id": "H-P-DP09",
+      "rationale": "семейное свидетельство автора ВГД; не первично подтвержденное родство",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": "HS-P-Q-family"
+    },
+    {
+      "relationship_id": "HR-20",
+      "person_a_id": "H-P-DP13",
+      "relationship_type": "spouse-of",
+      "person_b_id": "H-P-DP14",
+      "rationale": "семейное свидетельство автора ВГД; не первично подтвержденное родство",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": "HS-P-Q-family"
+    },
+    {
+      "relationship_id": "HR-21",
+      "person_a_id": "H-P-DP05",
+      "relationship_type": "parent-of",
+      "person_b_id": "H-P-DP15",
+      "rationale": "семейное свидетельство автора ВГД; не первично подтвержденное родство",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": "HS-P-Q-family"
+    },
+    {
+      "relationship_id": "HR-22",
+      "person_a_id": "H-P-DP05",
+      "relationship_type": "parent-of",
+      "person_b_id": "H-P-DP16",
+      "rationale": "семейное свидетельство автора ВГД; не первично подтвержденное родство",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": "HS-P-Q-family"
+    },
+    {
+      "relationship_id": "HR-23",
+      "person_a_id": "H-P-DP05",
+      "relationship_type": "parent-of",
+      "person_b_id": "H-P-DP17",
+      "rationale": "семейное свидетельство автора ВГД; не первично подтвержденное родство",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": "HS-P-Q-family"
+    },
+    {
+      "relationship_id": "HR-24",
+      "person_a_id": "H-P-DP05",
+      "relationship_type": "parent-of",
+      "person_b_id": "H-P-DP18",
+      "rationale": "семейное свидетельство автора ВГД; не первично подтвержденное родство",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": "HS-P-Q-family"
+    },
+    {
+      "relationship_id": "HR-25",
+      "person_a_id": "H-P-DP20",
+      "relationship_type": "parent-of",
+      "person_b_id": "H-P-DP19",
+      "rationale": "семейное свидетельство автора ВГД; не первично подтвержденное родство",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": "HS-P-Q-kolbasov;HS-P-Q-kolbasov-parents"
+    },
+    {
+      "relationship_id": "HR-26",
+      "person_a_id": "H-P-DP21",
+      "relationship_type": "parent-of",
+      "person_b_id": "H-P-DP19",
+      "rationale": "семейное свидетельство автора ВГД; не первично подтвержденное родство",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": "HS-P-Q-kolbasov;HS-P-Q-kolbasov-parents"
+    },
+    {
+      "relationship_id": "HR-27",
+      "person_a_id": "H-P-DP19",
+      "relationship_type": "sibling-of",
+      "person_b_id": "H-P-DP22",
+      "rationale": "семейное свидетельство автора ВГД; не первично подтвержденное родство",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": "HS-P-Q-kolbasov"
+    },
+    {
+      "relationship_id": "HR-28",
+      "person_a_id": "H-P-DP20",
+      "relationship_type": "parent-of",
+      "person_b_id": "H-P-DP22",
+      "rationale": "вывод из родного братства и отчества, не отдельная запись рождения",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": "HS-P-Q-kolbasov"
+    },
+    {
+      "relationship_id": "HR-29",
+      "person_a_id": "H-P-DP21",
+      "relationship_type": "parent-of",
+      "person_b_id": "H-P-DP22",
+      "rationale": "гипотеза общей матери родных братьев; отдельно мать Ильи не названа",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": "HS-P-Q-kolbasov"
+    },
+    {
+      "relationship_id": "HR-30",
+      "person_a_id": "H-P-DP08",
+      "relationship_type": "possible-identity",
+      "person_b_id": "C-0001",
+      "rationale": "гипотеза, не слияние · ФИО,1896,железная дорога Красноярска,арест",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": "HS-P-Q-family;HS-P-Q-stepan-repression"
+    },
+    {
+      "relationship_id": "HR-31",
+      "person_a_id": "H-P-DP12",
+      "relationship_type": "possible-identity",
+      "person_b_id": "H-P-DR01",
+      "rationale": "гипотеза, не слияние · ФИО,1917,Большой Улуй,Красноярский ГВК",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": "HS-P-Q-family;HS-P-Q-card-1268922586;HS-P-Q-card-40291430"
+    },
+    {
+      "relationship_id": "HR-32",
+      "person_a_id": "H-P-DP14",
+      "relationship_type": "possible-identity",
+      "person_b_id": "H-P-DP19",
+      "rationale": "гипотеза, не слияние · один автор, полные имя/отчество, учитель одной Троицкой школы, Беловка",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": "HS-P-Q-family;HS-P-Q-kolbasov"
+    },
+    {
+      "relationship_id": "HR-33",
+      "person_a_id": "H-P-DP19",
+      "relationship_type": "possible-identity",
+      "person_b_id": "H-P-DR02",
+      "rationale": "гипотеза, не слияние · Роман Григорьевич1908,точная деревня Первые Сильяш,Беловка; фамилии различаются",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": "HS-P-Q-kolbasov;HS-P-Q-roman-repression"
+    },
+    {
+      "relationship_id": "HR-34",
+      "person_a_id": "H-P-DP15",
+      "relationship_type": "possible-identity",
+      "person_b_id": "H-P-DR03",
+      "rationale": "гипотеза, не слияние · Омельян/Емельян только поисковый вариант, Данилович,Винницкая область; село и отец неизвестны",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": "HS-P-Q-family;HS-P-Q-card-41679027"
+    },
+    {
+      "relationship_id": "HR-35",
+      "person_a_id": "H-P-DR03",
+      "relationship_type": "possible-identity",
+      "person_b_id": "H-P-DR04",
+      "rationale": "гипотеза, не слияние · ФИО,1905,Джулинский РВК; возвращение после пропажи1941 возможно, не доказано",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": "HS-P-Q-card-41679027;HS-P-Q-emelyan-loss"
+    },
+    {
+      "relationship_id": "HR-36",
+      "person_a_id": "H-P-DP04",
+      "relationship_type": "possible-identity",
+      "person_b_id": "H-P-DR05",
+      "rationale": "гипотеза, не слияние · только Казимир Цитко; нет возраста,Анны,Березовки",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": "HS-P-Q-optants;HS-P-Q-optants-query"
+    },
+    {
+      "relationship_id": "HR-37",
+      "person_a_id": "C-0001",
+      "relationship_type": "possible-identity",
+      "person_b_id": "P-0016",
+      "rationale": "Кандидат на отца Галины, дети в карточке не названы",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": ""
+    },
+    {
+      "relationship_id": "HR-38",
+      "person_a_id": "H-Q-DP-P02",
+      "relationship_type": "spouse-of",
+      "person_b_id": "H-Q-DP-P09",
+      "rationale": "Слабая гипотеза пары, брак не найден",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": ""
+    },
+    {
+      "relationship_id": "HR-39",
+      "person_a_id": "H-Q-DP-P02",
+      "relationship_type": "parent-of",
+      "person_b_id": "C-0004",
+      "rationale": "Гипотеза по отчеству, хронологии и общему маршруту, не прямое отцовство",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": ""
+    },
+    {
+      "relationship_id": "HR-40",
+      "person_a_id": "H-Q-DP-P02",
+      "relationship_type": "parent-of",
+      "person_b_id": "H-Q-DP-P04",
+      "rationale": "Гипотеза по отчеству, хронологии и общему маршруту, не прямое отцовство",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": ""
+    },
+    {
+      "relationship_id": "HR-41",
+      "person_a_id": "H-Q-DP-P02",
+      "relationship_type": "parent-of",
+      "person_b_id": "H-Q-DP-P07",
+      "rationale": "Гипотеза по отчеству, хронологии и общему маршруту, не прямое отцовство",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": ""
+    },
+    {
+      "relationship_id": "HR-42",
+      "person_a_id": "H-Q-DP-P02",
+      "relationship_type": "parent-of",
+      "person_b_id": "H-Q-DP-P08",
+      "rationale": "Гипотеза по отчеству, хронологии и общему маршруту, не прямое отцовство",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": ""
+    },
+    {
+      "relationship_id": "HR-43",
+      "person_a_id": "H-Q-DP-P02",
+      "relationship_type": "parent-of",
+      "person_b_id": "H-Q-DP-P11",
+      "rationale": "Гипотеза по отчеству, хронологии и общему маршруту, не прямое отцовство",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": ""
+    },
+    {
+      "relationship_id": "HR-44",
+      "person_a_id": "C-0004",
+      "relationship_type": "spouse-of",
+      "person_b_id": "C-0005",
+      "rationale": "Гипотеза, брак не найден",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": ""
+    },
+    {
+      "relationship_id": "HR-45",
+      "person_a_id": "C-0004",
+      "relationship_type": "parent-of",
+      "person_b_id": "C-0007",
+      "rationale": "Предположение об отце по отчеству и общему учету",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": ""
+    },
+    {
+      "relationship_id": "HR-46",
+      "person_a_id": "C-0005",
+      "relationship_type": "parent-of",
+      "person_b_id": "C-0007",
+      "rationale": "Предположение о матери, материнство в источнике не указано",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": ""
+    },
+    {
+      "relationship_id": "HR-47",
+      "person_a_id": "C-0004",
+      "relationship_type": "parent-of",
+      "person_b_id": "C-0002",
+      "rationale": "Предположение об отце по отчеству и общему учету",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": ""
+    },
+    {
+      "relationship_id": "HR-48",
+      "person_a_id": "C-0005",
+      "relationship_type": "parent-of",
+      "person_b_id": "C-0002",
+      "rationale": "Предположение о матери, материнство в источнике не указано",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": ""
+    },
+    {
+      "relationship_id": "HR-49",
+      "person_a_id": "C-0004",
+      "relationship_type": "parent-of",
+      "person_b_id": "C-0006",
+      "rationale": "Предположение об отце по отчеству и общему учету",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": ""
+    },
+    {
+      "relationship_id": "HR-50",
+      "person_a_id": "C-0005",
+      "relationship_type": "parent-of",
+      "person_b_id": "C-0006",
+      "rationale": "Предположение о матери, материнство в источнике не указано",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": ""
+    },
+    {
+      "relationship_id": "HR-51",
+      "person_a_id": "C-0002",
+      "relationship_type": "possible-identity",
+      "person_b_id": "P-0013",
+      "rationale": "Совпадают ФИО и Прокопьевск, семейная идентичность не доказана",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": ""
+    },
+    {
+      "relationship_id": "HR-52",
+      "person_a_id": "H-Z-AFANAS",
+      "relationship_type": "spouse-of",
+      "person_b_id": "H-Z-MARIA",
+      "rationale": "Жена прямо названа в донесении",
+      "confidence": "moderate",
+      "status": "hypothesis",
+      "supporting_artifact_ids": "HS-Z-AFANAS"
+    },
+    {
+      "relationship_id": "HR-53",
+      "person_a_id": "H-Z-AFANAS",
+      "relationship_type": "parent-of",
+      "person_b_id": "P-0015",
+      "rationale": "Слабая гипотеза отцовства: совместимые имя, место и хронология",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": ""
+    },
+    {
+      "relationship_id": "HR-54",
+      "person_a_id": "H-Z-MARIA",
+      "relationship_type": "parent-of",
+      "person_b_id": "P-0015",
+      "rationale": "Гипотеза материнства через возможную семейную пару",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": ""
+    },
+    {
+      "relationship_id": "HR-55",
+      "person_a_id": "C-0012",
+      "relationship_type": "possible-kinship",
+      "person_b_id": "H-M-PETR",
+      "rationale": "Фамилия, отчество и близкое название села, но родство не установлено",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": ""
+    },
+    {
+      "relationship_id": "HR-56",
+      "person_a_id": "C-0012",
+      "relationship_type": "possible-identity",
+      "person_b_id": "P-0008",
+      "rationale": "Год 1926 теперь совпадает с уточнением семьи; район совпадает, написание села отличается. Родственная связка ещё не доказана",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": ""
+    },
+    {
+      "relationship_id": "HR-57",
+      "person_a_id": "H-M-AVER-EM",
+      "relationship_type": "parent-of",
+      "person_b_id": "C-0011",
+      "rationale": "Отец прямо назван в первичном донесении",
+      "confidence": "moderate",
+      "status": "hypothesis",
+      "supporting_artifact_ids": "A-0023"
+    },
+    {
+      "relationship_id": "HR-58",
+      "person_a_id": "H-M-AVER-TIM",
+      "relationship_type": "parent-of",
+      "person_b_id": "H-M-TIM19",
+      "rationale": "Отец прямо назван в донесении",
+      "confidence": "moderate",
+      "status": "hypothesis",
+      "supporting_artifact_ids": "HS-M-TIM19"
+    },
+    {
+      "relationship_id": "HR-59",
+      "person_a_id": "H-M-AVER-EM",
+      "relationship_type": "possible-identity",
+      "person_b_id": "H-M-AVER-TIM",
+      "rationale": "Общий район и имя недостаточны, тождество не установлено",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": ""
+    },
+    {
+      "relationship_id": "HR-60",
+      "person_a_id": "H-M-TIM19",
+      "relationship_type": "possible-identity",
+      "person_b_id": "H-M-TIM24",
+      "rationale": "Противоречащие годы и даты, не слиты",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": ""
+    },
+    {
+      "relationship_id": "HR-61",
+      "person_a_id": "H-M-TIM24",
+      "relationship_type": "possible-kinship",
+      "person_b_id": "H-M-NIK",
+      "rationale": "Общие отчество и Б.-Сюган, не доказанное братство",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": ""
+    },
+    {
+      "relationship_id": "HR-62",
+      "person_a_id": "C-0011",
+      "relationship_type": "possible-identity",
+      "person_b_id": "P-0011",
+      "rationale": "ФИО и1909 совпадают, но послевоенная семейная связь не найдена",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": ""
+    },
+    {
+      "relationship_id": "HR-63",
+      "person_a_id": "C-0010",
+      "relationship_type": "possible-identity",
+      "person_b_id": "P-0018",
+      "rationale": "1922, Ачинск и предполагаемая брачная фамилия, родство не доказано",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": ""
+    },
+    {
+      "relationship_id": "HR-64",
+      "person_a_id": "C-0003",
+      "relationship_type": "possible-identity",
+      "person_b_id": "P-0018",
+      "rationale": "ФИО совпадает, но 1918, другой призыв и служба; слабый альтернативный кандидат",
+      "confidence": "low",
+      "status": "hypothesis",
+      "supporting_artifact_ids": ""
+    },
+    {
+      "relationship_id": "HR-65",
+      "person_a_id": "P-0018",
+      "relationship_type": "spouse-of",
+      "person_b_id": "P-0019",
+      "rationale": "Супруг назван в рассказе пользователя",
+      "confidence": "moderate",
+      "status": "hypothesis",
+      "supporting_artifact_ids": "A-0007"
+    },
+    {
+      "relationship_id": "DISPLAY-F-home-P-0002-P-0033",
+      "person_a_id": "P-0002",
+      "person_b_id": "P-0033",
+      "relationship_type": "parent-of",
+      "supporting_artifact_ids": "USER-RULE-FAMILY-PARENTS",
+      "status": "user-rule",
+      "confidence": "user-specified",
+      "rationale": "Правило состава семьи пользователя; производная связь показа, не документальное доказательство",
+      "display_rule": "USER-RULE-FAMILY-PARENTS"
+    },
+    {
+      "relationship_id": "DISPLAY-F-home-P-0003-P-0033",
+      "person_a_id": "P-0003",
+      "person_b_id": "P-0033",
+      "relationship_type": "parent-of",
+      "supporting_artifact_ids": "USER-RULE-FAMILY-PARENTS",
+      "status": "user-rule",
+      "confidence": "user-specified",
+      "rationale": "Правило состава семьи пользователя; производная связь показа, не документальное доказательство",
+      "display_rule": "USER-RULE-FAMILY-PARENTS"
+    },
+    {
+      "relationship_id": "DISPLAY-F-zykin-P-0014-P-0031",
+      "person_a_id": "P-0014",
+      "person_b_id": "P-0031",
+      "relationship_type": "parent-of",
+      "supporting_artifact_ids": "USER-RULE-FAMILY-PARENTS",
+      "status": "user-rule",
+      "confidence": "user-specified",
+      "rationale": "Правило состава семьи пользователя; производная связь показа, не документальное доказательство",
+      "display_rule": "USER-RULE-FAMILY-PARENTS"
+    },
+    {
+      "relationship_id": "DISPLAY-F-zykin-P-0014-P-0032",
+      "person_a_id": "P-0014",
+      "person_b_id": "P-0032",
+      "relationship_type": "parent-of",
+      "supporting_artifact_ids": "USER-RULE-FAMILY-PARENTS",
+      "status": "user-rule",
+      "confidence": "user-specified",
+      "rationale": "Правило состава семьи пользователя; производная связь показа, не документальное доказательство",
+      "display_rule": "USER-RULE-FAMILY-PARENTS"
+    },
+    {
+      "relationship_id": "DISPLAY-F-zykin-P-0015-P-0031",
+      "person_a_id": "P-0015",
+      "person_b_id": "P-0031",
+      "relationship_type": "parent-of",
+      "supporting_artifact_ids": "USER-RULE-FAMILY-PARENTS",
+      "status": "user-rule",
+      "confidence": "user-specified",
+      "rationale": "Правило состава семьи пользователя; производная связь показа, не документальное доказательство",
+      "display_rule": "USER-RULE-FAMILY-PARENTS"
+    },
+    {
+      "relationship_id": "DISPLAY-F-zykin-P-0015-P-0032",
+      "person_a_id": "P-0015",
+      "person_b_id": "P-0032",
+      "relationship_type": "parent-of",
+      "supporting_artifact_ids": "USER-RULE-FAMILY-PARENTS",
+      "status": "user-rule",
+      "confidence": "user-specified",
+      "rationale": "Правило состава семьи пользователя; производная связь показа, не документальное доказательство",
+      "display_rule": "USER-RULE-FAMILY-PARENTS"
+    },
+    {
+      "relationship_id": "DISPLAY-F-ponomarev-P-0016-P-0018",
+      "person_a_id": "P-0016",
+      "person_b_id": "P-0018",
+      "relationship_type": "parent-of",
+      "supporting_artifact_ids": "USER-RULE-FAMILY-PARENTS",
+      "status": "user-rule",
+      "confidence": "user-specified",
+      "rationale": "Правило состава семьи пользователя; производная связь показа, не документальное доказательство",
+      "display_rule": "USER-RULE-FAMILY-PARENTS"
+    },
+    {
+      "relationship_id": "DISPLAY-F-ponomarev-P-0016-P-0020",
+      "person_a_id": "P-0016",
+      "person_b_id": "P-0020",
+      "relationship_type": "parent-of",
+      "supporting_artifact_ids": "USER-RULE-FAMILY-PARENTS",
+      "status": "user-rule",
+      "confidence": "user-specified",
+      "rationale": "Правило состава семьи пользователя; производная связь показа, не документальное доказательство",
+      "display_rule": "USER-RULE-FAMILY-PARENTS"
+    },
+    {
+      "relationship_id": "DISPLAY-F-ponomarev-P-0017-P-0018",
+      "person_a_id": "P-0017",
+      "person_b_id": "P-0018",
+      "relationship_type": "parent-of",
+      "supporting_artifact_ids": "USER-RULE-FAMILY-PARENTS",
+      "status": "user-rule",
+      "confidence": "user-specified",
+      "rationale": "Правило состава семьи пользователя; производная связь показа, не документальное доказательство",
+      "display_rule": "USER-RULE-FAMILY-PARENTS"
+    },
+    {
+      "relationship_id": "DISPLAY-F-ponomarev-P-0017-P-0020",
+      "person_a_id": "P-0017",
+      "person_b_id": "P-0020",
+      "relationship_type": "parent-of",
+      "supporting_artifact_ids": "USER-RULE-FAMILY-PARENTS",
+      "status": "user-rule",
+      "confidence": "user-specified",
+      "rationale": "Правило состава семьи пользователя; производная связь показа, не документальное доказательство",
+      "display_rule": "USER-RULE-FAMILY-PARENTS"
+    },
+    {
+      "relationship_id": "DISPLAY-F-polina-P-0018-P-0023",
+      "person_a_id": "P-0018",
+      "person_b_id": "P-0023",
+      "relationship_type": "parent-of",
+      "supporting_artifact_ids": "USER-RULE-FAMILY-PARENTS",
+      "status": "hypothesis",
+      "confidence": "user-specified",
+      "rationale": "Правило состава семьи пользователя; производная связь показа, не документальное доказательство · гипотеза семьи сохранена",
+      "display_rule": "USER-RULE-FAMILY-PARENTS"
+    },
+    {
+      "relationship_id": "DISPLAY-F-polina-P-0019-P-0023",
+      "person_a_id": "P-0019",
+      "person_b_id": "P-0023",
+      "relationship_type": "parent-of",
+      "supporting_artifact_ids": "USER-RULE-FAMILY-PARENTS",
+      "status": "hypothesis",
+      "confidence": "user-specified",
+      "rationale": "Правило состава семьи пользователя; производная связь показа, не документальное доказательство · гипотеза семьи сохранена",
+      "display_rule": "USER-RULE-FAMILY-PARENTS"
+    },
+    {
+      "relationship_id": "DISPLAY-F-hyp-ponomarev-C-0008-P-0016",
+      "person_a_id": "C-0008",
+      "person_b_id": "P-0016",
+      "relationship_type": "parent-of",
+      "supporting_artifact_ids": "USER-RULE-FAMILY-PARENTS",
+      "status": "hypothesis",
+      "confidence": "conditional",
+      "rationale": "Правило состава семьи пользователя; производная связь показа, не документальное доказательство · гипотеза семьи сохранена",
+      "display_rule": "USER-RULE-FAMILY-PARENTS"
+    },
+    {
+      "relationship_id": "DISPLAY-F-hyp-ponomarev-C-0009-P-0016",
+      "person_a_id": "C-0009",
+      "person_b_id": "P-0016",
+      "relationship_type": "parent-of",
+      "supporting_artifact_ids": "USER-RULE-FAMILY-PARENTS",
+      "status": "hypothesis",
+      "confidence": "conditional",
+      "rationale": "Правило состава семьи пользователя; производная связь показа, не документальное доказательство · гипотеза семьи сохранена",
+      "display_rule": "USER-RULE-FAMILY-PARENTS"
+    },
+    {
+      "relationship_id": "DISPLAY-F-hyp-roman-parents-H-P-DP20-H-P-DP14",
+      "person_a_id": "H-P-DP20",
+      "person_b_id": "H-P-DP14",
+      "relationship_type": "parent-of",
+      "supporting_artifact_ids": "USER-RULE-FAMILY-PARENTS",
+      "status": "hypothesis",
+      "confidence": "conditional",
+      "rationale": "Правило состава семьи пользователя; производная связь показа, не документальное доказательство · гипотеза семьи сохранена",
+      "display_rule": "USER-RULE-FAMILY-PARENTS"
+    },
+    {
+      "relationship_id": "DISPLAY-F-hyp-roman-parents-H-P-DP21-H-P-DP14",
+      "person_a_id": "H-P-DP21",
+      "person_b_id": "H-P-DP14",
+      "relationship_type": "parent-of",
+      "supporting_artifact_ids": "USER-RULE-FAMILY-PARENTS",
+      "status": "hypothesis",
+      "confidence": "conditional",
+      "rationale": "Правило состава семьи пользователя; производная связь показа, не документальное доказательство · гипотеза семьи сохранена",
+      "display_rule": "USER-RULE-FAMILY-PARENTS"
+    }
+  ],
+  "updates": [
+    {
+      "title": "Добавлена сестра",
+      "person_id": "P-0033",
+      "text": "Шевердова Екатерина Андреевна,2009. Имя исправлено пользователем"
+    },
+    {
+      "title": "Уточнена семья Людмилы",
+      "person_id": "P-0008",
+      "text": "Александр 1926–2015, Сорокошицы. Антонина 1930–1993. Для Емельяна указана Татарка"
+    },
+    {
+      "title": "Уточнена семья Владимира Сорокина",
+      "person_id": "P-0012",
+      "text": "Алексей 17.08.1934–2007, Игарка. Зинаида 20.08.1937–2018, Прокопьевск"
+    },
+    {
+      "title": "Ефим Сорокин: найдены документы и портрет кандидата",
+      "person_id": "P-0034",
+      "text": "Фамилия прямо уточнена пользователем. Кандидат 1912, Игарка, награднойлист/приказ/книга; родство пока не доказано"
+    },
+    {
+      "title": "Добавлено старшее поколение",
+      "person_id": "P-0036",
+      "text": "Ефим Иванович и Мария; Александр Попонников 1911–1995 и Анастасия Тупикина 1911–1960"
+    }
+  ],
+  "comparisons": [
+    {
+      "person_id": "P-0008",
+      "record_ids": [
+        "C-0012"
+      ],
+      "title": "Александр Ерченко: совпал год рождения",
+      "text": "Новое сообщение семьи даёт 1926, как в наградной карточке. Район совпадает, название села записано по-разному. Родственная связка с Антониной и Людмилой по документам ещё не найдена"
+    },
+    {
+      "person_id": "P-0013",
+      "record_ids": [
+        "C-0002"
+      ],
+      "title": "Зинаида Попонникова: совпали год и город",
+      "text": "Семья уточнила 20.08.1937–2018. В индексе 1937 и Прокопьевск, но точной даты, брака и состава семьи там нет"
+    },
+    {
+      "person_id": "P-0037",
+      "record_ids": [
+        "C-0005"
+      ],
+      "title": "Анастасия: сохраняется расхождение",
+      "text": "В семье Анастасия Тупикина 1911–1960, в индексе Анастасия Яковлевна Попонникова 1912. Отчество и тождество не перенесены автоматически"
+    },
+    {
+      "person_id": "P-0011",
+      "record_ids": [
+        "C-0011"
+      ],
+      "title": "Емельян: нужно связать географию",
+      "text": "В новом рассказе Татарка, у военного кандидата Кузьминка/Венгеровский район. Роль семейного места и послевоенная судьба кандидата не установлены"
+    },
+    {
+      "person_id": "P-0034",
+      "record_ids": [
+        "C-0013"
+      ],
+      "title": "Ефим Сорокин: сильный военный кандидат1912",
+      "text": "Совпали ФИО, Игарка и рассказ о Берлине. Найдены оригинальный наградной лист и приказ 40ск №251/н от 01.03.1945: медаль «За боевые заслуги», эпизод 13.02.1945. Опубликованы портрет и послевоенное возвращение в Назаровскийрайон. Нет документа с женойМарией и сыномАлексеем 1934. Районы и написание деревни расходятся, годы/награды/портрет не перенесены на семейного Ефима"
+    }
+  ],
+  "documents": [
+    {
+      "kind": "document-crop",
+      "identity_status": "unconfirmed",
+      "person_id": "C-0011",
+      "status": "Скан документа · принадлежность семье не установлена",
+      "title": "Строка о Емельяне Зайцеве",
+      "caption": "Фрагмент строки № 14 с заголовками граф. ФИО, 1909 год, призыв Венгеровским РВК, пропажа без вести 16.08.1943 и отец Зайцев Аверьян. Нечитаемая часть адреса не восстановлена догадкой. Это не фотография человека",
+      "alt": "Фрагмент архивного донесения, строка 14: Зайцев Емельян Аверьянович",
+      "source_url": "https://obd-memorial.ru/html/info.htm?id=54711119",
+      "media_type": "image/jpeg",
+      "asset": "assets/documents/zaitsev-54711119-row14.jpg"
+    },
+    {
+      "kind": "document",
+      "identity_status": "unconfirmed",
+      "person_id": "C-0011",
+      "status": "Оригинальная цифровая копия · тот же источник",
+      "title": "Полный лист донесения",
+      "caption": "ЦАМО, фонд 58, опись 18002, дело 148. Искомая строка первая в таблице, № 14. Индекс и этот скан относятся к одному документу, а не к независимым доказательствам. Номер архивного листа не установлен",
+      "alt": "Полный лист донесения с записью Зайцева, не семейный портрет",
+      "source_url": "https://obd-memorial.ru/html/info.htm?id=54711119",
+      "media_type": "image/jpeg",
+      "asset": "assets/documents/zaitsev-54711119-page.jpg"
+    },
+    {
+      "kind": "photo",
+      "identity_status": "unconfirmed",
+      "person_id": "C-0013",
+      "status": "Материал исторического кандидата · родство не подтверждено",
+      "title": "Портрет из исторической карточки",
+      "caption": "Подписанный портрет кандидата1912. Родство не доказано, это не подтверждённая фотография вашего Ефима",
+      "alt": "Портрет из исторической карточки",
+      "source_url": "https://cdn.moypolk.ru/static/resize/w800/soldiers/photo/2022/08/09/2424f0d5c73ebdc95e1cd5e7aff1f74d.jpg",
+      "media_type": "image/jpeg",
+      "asset": "assets/documents/sorokin-1912-portrait.jpg"
+    },
+    {
+      "kind": "document",
+      "identity_status": "unconfirmed",
+      "person_id": "C-0013",
+      "status": "Материал исторического кандидата · родство не подтверждено",
+      "title": "Наградной лист Ефима Сорокина",
+      "caption": "Прочитанный оригинал:1912, ИгарскийГВК18.06.1942, повозочный511обс40ск, эпизод13.02.1945. Маскированное поле семьи не восстанавливалось",
+      "alt": "Наградной лист Ефима Сорокина",
+      "source_url": "https://podvignaroda.ru/?#id=24857097&tab=navDetailManAward",
+      "media_type": "image/jpeg",
+      "asset": "assets/documents/sorokin-24857097-award.jpg"
+    },
+    {
+      "kind": "document",
+      "identity_status": "unconfirmed",
+      "person_id": "C-0013",
+      "status": "Материал исторического кандидата · родство не подтверждено",
+      "title": "Приказ №251/н: шапка от1марта1945",
+      "caption": "40стрелковыйкорпус. Дата приказа отличается от даты13.02.1945 в поисковой карточке",
+      "alt": "Приказ №251/н: шапка от1марта1945",
+      "source_url": "https://podvignaroda.ru/?#id=24857068&tab=navDetailDocument",
+      "media_type": "image/jpeg",
+      "asset": "assets/documents/sorokin-24857068-order-header.jpg"
+    },
+    {
+      "kind": "document",
+      "identity_status": "unconfirmed",
+      "person_id": "C-0013",
+      "status": "Материал исторического кандидата · родство не подтверждено",
+      "title": "Приказ: строка11, медаль «За боевые заслуги»",
+      "caption": "Красноармеец Сорокин Ефим Иванович, повозочный511отдельного батальонасвязи40ск. Печатнаястраница3; это тотже приказ, не отдельная награда",
+      "alt": "Приказ: строка11, медаль «За боевые заслуги»",
+      "source_url": "https://podvignaroda.ru/?#id=24857068&tab=navDetailDocument",
+      "media_type": "image/jpeg",
+      "asset": "assets/documents/sorokin-24857068-order-row11.jpg"
+    },
+    {
+      "kind": "document",
+      "identity_status": "unconfirmed",
+      "person_id": "C-0013",
+      "status": "Материал исторического кандидата · родство не подтверждено",
+      "title": "«Будем жить!»: биография на странице525",
+      "caption": "PDFстраница527. Ужурскийрайон/Изыкчуль и послевоенный Назаровскийрайон. Блог/книга/карточка не считаются тремя независимыми семейными свидетельствами",
+      "alt": "«Будем жить!»: биография на странице525",
+      "source_url": "https://gnkk.ru/nkk/data/uploads/2023/03/240kh320_Budem_zhit-1.pdf",
+      "media_type": "image/png",
+      "asset": "assets/documents/sorokin-budem-zhit-p525.png"
+    }
+  ],
+  "reading_rules": [
+    "Связи по рассказу семьи не означают архивного доказательства",
+    "Возможные семьи выделены отдельно, но связаны с основной ветвью",
+    "Национальность подписана только у конкретной записи, где она указана",
+    "Родительская пара — не утверждение о юридически зарегистрированном браке"
+  ],
+  "presentation": {
+    "person_notes": {
+      "P-0033": {
+        "text": "Сестра пользователя. Имя исправлено пользователем на Екатерина. По последнему прямому уточнению пользователя её родители: Елена Сорокина и Андрей Шевердов",
+        "basis": "USER-RULE-FAMILY-PARENTS"
+      }
+    }
+  }
+}

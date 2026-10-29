@@ -1,0 +1,4 @@
+# Runtime/build: Python stdlib only. These are developer/test tools.
+playwright==1.62.0
+jsbeautifier==2.0.3
+cssbeautifier==2.0.3
