@@ -142,6 +142,10 @@
 #timeline-page [data-tl-certainty=unknown] .tl-date-kind::before { background:transparent; border-color:#99a6aa }
 #timeline-page .tl-place { margin:4px 0 13px; font-size:12px; line-height:1.6; overflow-wrap:break-word }
 #timeline-page .tl-place>span { display:block; font-size:10px; color:var(--tl-muted); margin-bottom:2px }
+#timeline-page .tl-person-actions { display:flex; flex-wrap:wrap; gap:8px; margin:4px 0 14px }
+#timeline-page .tl-person-actions button { min-height:44px; padding:8px 16px; font-size:13px }
+#timeline-page .tl-person-actions [data-tl-tree] { color:#164b55; border-color:#8baeb3; background:#edf5f5 }
+#timeline-page .tl-person-actions [data-tl-tree]:hover { background:#dceced; border-color:#527e86 }
 #timeline-page .tl-provenance { border-top:1px solid #e5eaeb; margin:0; font-size:11px }
 #timeline-page summary { cursor:pointer }
 #timeline-page .tl-provenance>summary { padding:12px 0; color:var(--tl-accent); min-height:44px; line-height:20px; overflow-wrap:break-word }
@@ -562,7 +566,9 @@ Object.assign(window.familyAtlas,{showPerson,locatePerson,closeDrawer,deselect,d
  * hides #workspace, changes the tree camera or moves the existing drawer.
  *
  * Public API:
- *   familyTimeline.show({model?, onOpenPerson?, onBack?}) -> HTMLElement
+ *   familyTimeline.show({model?, onOpenPerson?, onShowInTree?, onBack?}) -> HTMLElement
+ *     onShowInTree(id) is called after hiding this page by each person's 'В дереве' button;
+ *     restore the tree workspace and call familyAtlas.showPerson(id,true).
  *     model defaults to familyAtlas.model; filters persist in memory
  *   familyTimeline.hide({restoreFocus = true} = {})
  *   familyTimeline.parseBirth(rawString) -> {
@@ -697,6 +703,7 @@ Object.assign(window.familyAtlas,{showPerson,locatePerson,closeDrawer,deselect,d
       <div class="tl-birth">${birthHTML}</div></div>
       ${person.place ? `<p class="tl-place"><span>Места из записи</span>${escapeHTML(person.place)}</p>` : ''}
       ${person.kind === 'record' ? '<p class="tl-candidate-note">Тождество родственнику не установлено. Сведения не переносятся на семью.</p>' : ''}
+      <div class="tl-person-actions" aria-label="Действия с человеком"><button data-tl-profile="${escapeHTML(person.id)}">Досье</button><button data-tl-tree="${escapeHTML(person.id)}" title="${person.kind==='record'?'Показать запись или связанный семейный контекст, без подтверждения тождества':'Перейти к этому человеку в дереве'}">В дереве</button></div>
       ${sourceMarkup(person)}</article>`;
   }
 
@@ -781,9 +788,18 @@ Object.assign(window.familyAtlas,{showPerson,locatePerson,closeDrawer,deselect,d
     root.addEventListener('click', event => {
       const button = event.target.closest('button');
       if (!button || !root.contains(button)) return;
-      if (button.hasAttribute('data-tl-person')) {
+      if (button.hasAttribute('data-tl-tree')) {
         event.stopPropagation();
-        const id = button.dataset.tlPerson;
+        const id=button.dataset.tlTree;
+        if(!entries.some(entry=>entry.person.id===id))return;
+        hide({restoreFocus:false});
+        if(typeof hooks.onShowInTree==='function')hooks.onShowInTree(id);
+        else {if(typeof hooks.onBack==='function')hooks.onBack();window.familyAtlas?.showPerson?.(id,true);}
+        return;
+      }
+      if (button.hasAttribute('data-tl-person') || button.hasAttribute('data-tl-profile')) {
+        event.stopPropagation();
+        const id = button.dataset.tlPerson || button.dataset.tlProfile;
         if (!entries.some(entry => entry.person.id === id)) return;
         const options = {locate: false, origin: 'timeline'};
         if (typeof hooks.onOpenPerson === 'function') hooks.onOpenPerson(id, options);
@@ -811,7 +827,7 @@ Object.assign(window.familyAtlas,{showPerson,locatePerson,closeDrawer,deselect,d
     if (!currentModel?.people || !currentModel?.families || !currentModel?.sources) {
       throw new TypeError('familyTimeline.show requires {people, families, sources} via familyAtlas.model or options.model');
     }
-    hooks = {onOpenPerson: options.onOpenPerson, onBack: options.onBack};
+    hooks = {onOpenPerson: options.onOpenPerson, onBack: options.onBack, onShowInTree: options.onShowInTree};
     if (!root || root.hidden) previousFocus = document.activeElement;
     mount();
     const membership = new Map();
@@ -883,7 +899,7 @@ Object.assign(window.familyAtlas,{showPerson,locatePerson,closeDrawer,deselect,d
     const results=document.getElementById('results');if(results)results.hidden=true;
     active=true;document.body.classList.add('timeline-active');
     for(const el of workspace.children){if(el===drawer||el.id==='drawer-resizer')continue;if(!priorInert.has(el))priorInert.set(el,el.inert);el.inert=true;}
-    familyTimeline.show({model:familyAtlas.model,onOpenPerson:openPerson,onBack:()=>restoreTree()});
+    familyTimeline.show({model:familyAtlas.model,onOpenPerson:openPerson,onBack:()=>restoreTree(),onShowInTree:id=>{restoreTree();familyAtlas.showPerson(id,true);}});
     button.setAttribute('aria-pressed','true');nav.classList.remove('mobile-open');document.querySelector('[data-action="menu"]')?.setAttribute('aria-expanded','false');sync();
   }
   document.addEventListener('click',e=>{
